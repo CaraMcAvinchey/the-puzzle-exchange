@@ -56,3 +56,22 @@ header a {
     color:#252525;
 }
 
+/* navigation links */
+
+footer {
+    background-color: red;
+}
+
+.social-networks {
+    display:flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    color: #252525;
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
+
