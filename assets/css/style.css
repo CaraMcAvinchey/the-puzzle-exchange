@@ -5,11 +5,54 @@
     padding: 0;
     border: none;
 }
+
 body {
     font-family: 'Lato', sans-serif;
+    font-weight: 300px;
+    color: #3a3a3a;
+}
+
+/* headings and logo */
+
+header {
+    width: 100%;
+    background-color: red;
+    padding: 10px;
 }
 
 h1, h2 {
     font-family: 'Roboto Condensed', sans-serif;
     text-transform: uppercase;
+    color: #252525;
 }
+
+#logo {
+    font-size: 200%; 
+    text-align: center;
+}
+
+header a {
+    text-decoration: none;
+}
+
+/* navigation links */
+
+.nav-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size: 110%;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    color: #252525;
+    list-style-type: none;
+}
+
+.nav-list a {
+    text-decoration: none;
+    color:#252525;
+}
+
