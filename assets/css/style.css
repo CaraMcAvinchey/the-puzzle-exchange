@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Lato', sans-serif;
-    color: #B0AB99;
+    color: #4A4737;
 }
 
 /* headings and logo */
@@ -19,7 +19,9 @@ header {
     padding: 10px;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 140%;
     text-transform: uppercase;
@@ -27,7 +29,7 @@ h1, h2, h3 {
 }
 
 #logo {
-    font-size: 200%; 
+    font-size: 200%;
     text-align: center;
 }
 
@@ -52,7 +54,7 @@ header a {
 
 .nav-list a {
     text-decoration: none;
-    color:#4A4737;
+    color: #4A4737;
 }
 
 /* hero image */
@@ -69,17 +71,13 @@ header a {
 }
 
 #cover-text {
-    font-size: 100%;
+    color: white;
     width: 250px;
-    height: 120px;
-    background-color:rgba(255, 255, 255, .7);
-    color: #B0AB99;
     text-align: center;
-
     padding: 20px;
-    bottom: 100px;
+    border: 6px solid white;
+    bottom: 80px;
     right: 50px;
-
     position: absolute;
 }
 
@@ -88,15 +86,16 @@ header a {
 .about-container {
     text-align: center;
     margin: 10px;
+    line-height: 1.5;
 }
 
-.about-us, .our-story, .why-join-us {
+.about-us,
+.our-story,
+.why-join-us {
     padding: 15px;
     border: 6px solid #FCEC88;
     margin: 15px;
 }
-
-
 
 /* footer */
 
@@ -106,7 +105,7 @@ header a {
 }
 
 .social-networks {
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
     gap: 2rem;
     justify-content: center;
@@ -120,5 +119,3 @@ header a {
 footer a {
     color: #252525;
 }
-
-
