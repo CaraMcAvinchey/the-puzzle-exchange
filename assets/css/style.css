@@ -89,15 +89,9 @@ header a {
 
 /* about section */
 
-.about-headings {
+.about-us, .about-headings, .about-text {
     text-align: center;
     padding: 10px;
-}
-
-.about-text {
-    text-align: center;
-    padding: 10px;
-    
 }
 
 /* footer */
