@@ -9,7 +9,7 @@
 body {
     font-family: 'Lato', sans-serif;
     font-weight: 300px;
-    color: #3a3a3a;
+    color: #B0AB99;
 }
 
 /* headings and logo */
@@ -23,7 +23,7 @@ header {
 h1, h2 {
     font-family: 'Roboto Condensed', sans-serif;
     text-transform: uppercase;
-    color: #252525;
+    color: #4A4737;
 }
 
 #logo {
@@ -47,16 +47,20 @@ header a {
     font-size: 110%;
     font-family: 'Roboto Condensed', sans-serif;
     text-transform: uppercase;
-    color: #252525;
+    color: #4A4737;
     list-style-type: none;
 }
 
 .nav-list a {
     text-decoration: none;
-    color:#252525;
+    color:#4A4737;
 }
 
 /* hero image */
+
+#hero-image-container {
+    position: relative;
+}
 
 #hero-image {
     height: 300px;
@@ -70,29 +74,23 @@ header a {
 }
 
 #cover-text {
-    font-size: 80%;
-    width: 200px;
-    height: 100px;
-    background-color:pink;
+    font-size: 100%;
+    width: 250px;
+    height: 120px;
+    background-color:rgba(255, 255, 255, .7);
+    color: #B0AB99;
     text-align: center;
 
-    padding: 15px;
-    bottom: 150px;
-    right: 75px;
+    padding: 20px;
+    bottom: 100px;
+    right: 50px;
 
     position: absolute;
-
-
 }
 
 /* footer */
 
-footer {
-    background-color: red;
-}
-
 .contact-us {
-    background-color: pink;
     text-align: center;
     padding: 20px;
 }
