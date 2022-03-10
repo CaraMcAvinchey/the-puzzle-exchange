@@ -120,15 +120,40 @@ footer a {
     color: #252525;
 }
 
-/* hero image */
+/* sign up form */
 
 #sign-up {
-    position: relative;
-    padding: 20px;
+    height: 300px;
+    width: 100%;
+    line-height: 1.5;
+    background: url('../images/hero-image.jpeg') no-repeat center center;
+    background-size: cover;
 }
 
 .sign-up-heading {
     text-align: center;
     padding: 10px;
+}
+
+.form {
+    background: rgba(255,255,255,.5);
+    width: 300px;
+    padding: 20px;
+    position: absolute;
+}
+
+.check-box {
+    padding-top: 10px;
+}
+
+.submit-button {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #4A4737;
+    text-transform: uppercase;
+    padding: 5px;
+    margin-top: 15px;
+    background-color: #FCEC88;
+    border: solid 3px white;
+
 }
 

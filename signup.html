@@ -39,25 +39,26 @@
                 details and we'll be in touch!</p>
         </div>
         <div>
-            <form action="https://formdump.codeinstitute.net/" method="POST">
+            <form class="form" action="https://formdump.codeinstitute.net/" method="POST">
                 <label for="first-name">Name:</label>
                 <input type="text" id="first-name" name="first-name">
                 <br>
                 <label for="email">Email:</label>
                 <input type="email" id="email" name="email">
                 
+                <div class="check-box">   
                 <p>I have a puzzle to exchange:</p>
-
-                <label for="puzzle-yes">Yes!</label>
                 <input type="checkbox" id="puzzle-yes" name="puzzle-yes">
+                <label for="puzzle-yes">Yes!</label>
                 <br>
-                <label for="puzzle-not-yet">Not yet, but I will.</label>
                 <input type="checkbox" id="puzzle-not-yet" name="puzzle-not-yet">
+                <label for="puzzle-not-yet">Not yet, but I will.</label>
                 <br>
-                <label for="puzzle-no">No, I'd like to meet up and build for now.</label>
                 <input type="checkbox" id="puzzle-no" name="puzzle-no">
+                <label for="puzzle-no">No, I'd like to meet up and build for now.</label>
                 <br>
-                <input type="submit">
+                </div> 
+                <input class="submit-button" type="submit" value="Let's exchange!">
             </form>
         </div>
     </section>
