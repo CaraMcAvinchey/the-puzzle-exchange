@@ -32,34 +32,35 @@
             </ul>
         </nav>
     </header>
-   <section>
-       <div>
-           <h3>Sign up:</h3>
-           <p>Sound interesting? If you'd like to join us one afternoon and see what we're all about then leave us your details and we'll be in touch!</p>
-       </div>
-       <div>
-           <form>
-               <label for="first-name">Name:</label>
-               <input type="text" id="first-name" name="first-name">
-               <br>
-               <label for="email">Email:</label>
-               <input type="email" id="email" name="email">
+    <section id="sign-up">
+        <div class="sign-up-heading">
+            <h3>Sign up:</h3>
+            <p>Sound interesting? If you'd like to join us one afternoon and see what we're all about then leave us your
+                details and we'll be in touch!</p>
+        </div>
+        <div>
+            <form action="https://formdump.codeinstitute.net/" method="POST">
+                <label for="first-name">Name:</label>
+                <input type="text" id="first-name" name="first-name">
+                <br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email">
+                
+                <p>I have a puzzle to exchange:</p>
 
-               <p>I have a puzzle to exchange:</p>
-
-               <label for="puzzle-yes">Yes!</label>
-               <input type="checkbox" id="puzzle-yes" name="puzzle-yes">
-               <br>
-               <label for="puzzle-not-yet">Not yet, but I will.</label>
-               <input type="checkbox" id="puzzle-not-yet" name="puzzle-not-yet">
-               <br>
-               <label for="puzzle-no">No, I'd like to meet up and build for now.</label>
-               <input type="checkbox" id="puzzle-no" name="puzzle-no" >
-               <br>
-               <input type="submit">
-           </form>
-       </div>
-   </section>
+                <label for="puzzle-yes">Yes!</label>
+                <input type="checkbox" id="puzzle-yes" name="puzzle-yes">
+                <br>
+                <label for="puzzle-not-yet">Not yet, but I will.</label>
+                <input type="checkbox" id="puzzle-not-yet" name="puzzle-not-yet">
+                <br>
+                <label for="puzzle-no">No, I'd like to meet up and build for now.</label>
+                <input type="checkbox" id="puzzle-no" name="puzzle-no">
+                <br>
+                <input type="submit">
+            </form>
+        </div>
+    </section>
     <footer>
         <div class="contact-us">
             <h2>Questions? Get in touch!</h2>

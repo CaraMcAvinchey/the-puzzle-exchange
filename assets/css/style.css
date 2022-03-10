@@ -119,3 +119,16 @@ header a {
 footer a {
     color: #252525;
 }
+
+/* hero image */
+
+#sign-up {
+    position: relative;
+    padding: 20px;
+}
+
+.sign-up-heading {
+    text-align: center;
+    padding: 10px;
+}
+
