@@ -14,19 +14,19 @@ Cara McAvinchey
 ## UX
 
 ### USER STORIES
-1. **As a first time visitor,**
-    a. I want to learn more about the Puzzle Exchange and what the club is all about.
-    b. I want to investigate the meet up locations, times and how to sign up as a member.
-    c. I want to find the social media links to see their following and to look at photos from past meet ups.
+1. As a first time visitor,
+    * I want to learn more about the Puzzle Exchange and what the club is all about.
+    * I want to investigate the meet up locations, times and how to sign up as a member.
+    * I want to find the social media links to see their following and to look at photos from past meet ups.
 
-2. **As a returning visitor,**
-    a. I want to find out where the next meet up location will be for the month.
-    b. I want to get in contact with the organisers about the exchange process.
-    c. I want to sign up as a member.
+2. As a returning visitor,
+    * I want to find out where the next meet up location will be for the month.
+    * I want to get in contact with the organisers about the exchange process.
+    * I want to sign up as a member.
 
-3. **As a Frequent User,** 
-    a. I want to check to see if there are any new meet up locations for the month.
-    b. I want to contact the organisers about borrowing, returning or add a new puzzle to the exchange.       
+3. As a Frequent User, 
+    * I want to check to see if there are any new meet up locations for the month.
+    * I want to contact the organisers about borrowing, returning or add a new puzzle to the exchange.       
 
 ### USER PROFILES
 
@@ -41,15 +41,27 @@ Cara McAvinchey
 **Images**
 **Animations**
 
-## FEATURES
+### FEATURES
 
-**Header**
-**Footer**
-**Home Page**
-**Locations Page**
-**Sign up Page**
+### Navigation Bar
+- The fully responsive navigation bar is identical in each page for easy navigation. It is featured on all three pages and includes links to the logo, home page, locations page and sign up page.
+- The user will be able to easily navigate from page to page across all devices without having to use the 'back' button to revert to the previous page.
 
+### Home Page 
+- The user will be able to learn about the Puzzle Exchange group and it's origin via the 'about us' and 'our story' sections.
+- The 'why join us' section will encourage the user further connect with the purpose of the meet up group.
 
+### Locations Page
+- This section will allow the user to find out when the exchange meetups will happen, where they will be located and at what time.
+- The page will be updated as the coffee shop locations and times change to keep the user up to date.
+
+### Sign up Page
+- This page will allow the user to sign up with the Puzzle Exchange group to start connecting with fellow puzzle builders in the next meet up.
+- The user will be able specify if they have a puzzle to exchange or not and will be asked to submit their full name and email address.
+
+### Footer
+- This section includes links to the relevant social media sites for the Puzzle Exchange group and contact details. The links will open to a new tab to allow easy navigation for the user.
+- The user will find this section valuable as it encourages them to keep connected via social media or contact the organisers for further information.
 
 ## Testing
 
