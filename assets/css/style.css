@@ -128,6 +128,7 @@ footer a {
     line-height: 1.5;
     background: url('../images/hero-image.jpeg') no-repeat center center;
     background-size: cover;
+    display: flex;
 }
 
 .sign-up-heading {
@@ -135,11 +136,15 @@ footer a {
     padding: 10px;
 }
 
+.sign-up-form {
+    padding:10px;
+}
+
 .form {
     background: rgba(255,255,255,.5);
-    width: 300px;
-    padding: 20px;
-    position: absolute;
+    width: 250px;
+    padding: 15px;
+    font-size: 80%;
 }
 
 .check-box {
