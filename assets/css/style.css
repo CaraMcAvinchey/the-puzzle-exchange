@@ -143,15 +143,29 @@ footer a {
 }
 
 .form {
-    background: rgba(255,255,255,.5);
-    width: 300px;
+    background: rgba(255,255,255,.7);
+    width: 350px;
     padding: 15px;
     font-size: 100%;
     margin-bottom: 20px;
 }
 
-.check-box {
-    padding-top: 10px;
+input[type=text], input[type=email] {
+    width: 100%;
+    padding: 10px 15px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 2px solid #FCEC88;
+    border-radius: 4px;
+    outline: none;
+}
+
+input[type=email]:focus {
+    border: 2px solid white;
+  }
+
+input[type=text]:focus {
+    border: 2px solid white;
 }
 
 .submit-button {
@@ -163,6 +177,5 @@ footer a {
     margin-top: 15px;
     background-color: #FCEC88;
     border: solid 3px white;
-
 }
 
