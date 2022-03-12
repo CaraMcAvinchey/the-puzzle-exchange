@@ -123,28 +123,31 @@ footer a {
 /* sign up form */
 
 #sign-up {
-    height: 300px;
     width: 100%;
     line-height: 1.5;
     background: url('../images/hero-image.jpeg') no-repeat center center;
     background-size: cover;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center
 }
 
 .sign-up-heading {
     text-align: center;
-    padding: 10px;
+    padding: 15px;
 }
 
 .sign-up-form {
-    padding:10px;
+    padding:15px;
 }
 
 .form {
     background: rgba(255,255,255,.5);
-    width: 250px;
+    width: 300px;
     padding: 15px;
-    font-size: 80%;
+    font-size: 100%;
+    margin-bottom: 20px;
 }
 
 .check-box {
@@ -153,6 +156,7 @@ footer a {
 
 .submit-button {
     font-family: 'Roboto Condensed', sans-serif;
+    font-size: 110%;
     color: #4A4737;
     text-transform: uppercase;
     padding: 5px;
