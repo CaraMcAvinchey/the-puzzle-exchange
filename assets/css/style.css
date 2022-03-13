@@ -179,3 +179,14 @@ input[type=text]:focus {
     border-radius: 4px;
 }
 
+/* meet-up locations */
+
+.locations-title {
+    font-size: 110%;
+    text-align: center;
+    padding: 15px;
+}
+.location-one-container {
+    text-align: center;
+    background-color: #FCEC88;
+}
