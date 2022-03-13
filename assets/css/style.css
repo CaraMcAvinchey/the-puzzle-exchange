@@ -57,6 +57,10 @@ header a {
     color: #4A4737;
 }
 
+.active {
+    border-bottom: 1px solid #4A4737;
+}
+
 /* hero image */
 
 #hero-image-container {
