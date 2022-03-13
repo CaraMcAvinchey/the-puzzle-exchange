@@ -111,13 +111,13 @@ header a {
     justify-content: center;
     align-items: center;
     list-style-type: none;
-    color: #252525;
+    color: #4A4737;
     font-size: 1.5rem;
     padding: 20px;
 }
 
 footer a {
-    color: #252525;
+    color: #4A4737;
 }
 
 /* sign up form */
@@ -173,9 +173,9 @@ input[type=text]:focus {
     font-size: 110%;
     color: #4A4737;
     text-transform: uppercase;
-    padding: 5px;
+    padding: 8px;
     margin-top: 15px;
     background-color: #FCEC88;
-    border: solid 3px white;
+    border-radius: 4px;
 }
 
