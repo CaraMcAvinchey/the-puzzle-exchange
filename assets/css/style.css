@@ -192,14 +192,22 @@ input[type=text]:focus {
     padding: 15px;
     margin: 10px;
 }
-.location-one-container {
+.location-container {
     text-align: center;
-    background-color: #FCEC88;
     padding: 15px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-content: center;
+}
+
+.location-one {
+    background-color: #FCEC88;
+
+}
+
+.location-two {
+    background-color: white;
 }
 
 .mapouter{
