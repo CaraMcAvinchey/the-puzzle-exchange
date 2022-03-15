@@ -16,7 +16,7 @@ body {
 header {
     width: 100%;
     background-color: white;
-    padding: 10px;
+    margin-top: 10px;
 }
 
 h1,
@@ -50,6 +50,8 @@ header a {
     text-transform: uppercase;
     color: #4A4737;
     list-style-type: none;
+    margin-top: 5px;
+    margin-bottom: 10px;
 }
 
 .nav-list a {
@@ -182,7 +184,13 @@ input[type=text]:focus {
     margin-top: 15px;
     background-color: #FCEC88;
     border-radius: 4px;
+    transition-duration: 0.4s;
 }
+  
+  .submit-button:hover {
+    background-color: #4A4737;
+    color: white;
+  }
 
 /* meet-up locations */
 
