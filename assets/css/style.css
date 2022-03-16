@@ -48,7 +48,6 @@ header a {
     width: 100%;
     font-family: 'Roboto Condensed', sans-serif;
     text-transform: uppercase;
-    color: #4A4737;
     list-style-type: none;
     margin-top: 5px;
     margin-bottom: 10px;
@@ -57,7 +56,11 @@ header a {
 .nav-list a {
     font-size: 110%;
     text-decoration: none;
-    color: #4A4737;
+    color: inherit;
+}
+
+.nav-list a:hover {
+    border-bottom: 2px solid #4A4737;
 }
 
 .active {
