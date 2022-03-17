@@ -82,7 +82,7 @@ header a {
     text-align: center;
     padding: 20px;
     position: absolute;
-    top: 50%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -100%);
 }
@@ -238,7 +238,7 @@ input[type=text]:focus {
 /* meet-up locations */
 
 .locations-image {
-    height: 50vh;
+    height: 300px;
     width: 100%;
     background: url(../images/coffee-shop-one.jpg) no-repeat center center;
     background-size: cover;
