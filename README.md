@@ -68,6 +68,21 @@ Cara McAvinchey
 ## Accessability
 
 ## Deployment
+1. Click on the settings link in the menu:
+<img width="1426" alt="image" src="https://user-images.githubusercontent.com/97494262/158908839-97f5755e-b268-46f8-8dec-6bbb1e0141f6.png">
+2. In the left hand menu, click on the pages link:
+<img width="1433" alt="image" src="https://user-images.githubusercontent.com/97494262/158909031-f33a8610-391a-41b1-8919-7fde6a4cdf68.png">
+3. In the sources section of the GitHub pages, click on the dropdown menu to select main as the source.
+<img width="1431" alt="image" src="https://user-images.githubusercontent.com/97494262/158909156-2e233311-5d37-4ef1-b16e-215575052c7f.png">
+4. After you've selected main, hit the save button.
+<img width="1430" alt="image" src="https://user-images.githubusercontent.com/97494262/158909243-29d40392-3c8f-47d5-97ed-47271ad9c59a.png">
+5. Eventually you'll see a blue area with the deployment URL and a success message.
+<img width="1430" alt="image" src="https://user-images.githubusercontent.com/97494262/158909292-7621c240-1001-4cd5-ba29-877319263e07.png">
+
+
+
+
+
 
 ## Credits
 - The pairing of Roboto Condensed and Lato were chosen using [FontJoy](https://fontjoy.com/#).
