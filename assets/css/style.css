@@ -242,34 +242,34 @@ input[type=text]:focus {
 /* meet-up locations */
 
 .locations-title {
-    font-size: 110%;
     text-align: center;
     padding: 15px;
     margin: 10px;
 }
-.location-container {
-    text-align: center;
-    padding: 15px;
+
+.locations-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    align-content: center;
+    text-align: center;
 }
 
-.location-one {
+.location-type-one {
     background-color: #FCEC88;
-
+    width: 100%;
+    padding: 10px;
 }
 
-.location-two {
+.location-type-two {
     background-color: white;
+    width: 100%;
+    padding: 10px;
 }
 
 .mapouter{
-    position:relative;
-    text-align:right;
-    height:250px;
-    width:250px;
+    position: relative;
+    text-align: right;
+    height: 250px;
+    width: 250px;
     margin-top: 10px;
     border: 3px solid white;
     border-radius: 4px;
@@ -278,6 +278,6 @@ input[type=text]:focus {
 .gmap_canvas {
     overflow:hidden;
     background:none;
-    height:250px;
-    width:250px;
-}>
+    height: 250px;
+    width: 250px;
+}
