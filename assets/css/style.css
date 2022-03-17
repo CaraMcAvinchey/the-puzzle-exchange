@@ -16,7 +16,7 @@ body {
 header {
     width: 100%;
     background-color: white;
-    margin-top: 10px;
+    padding-top: 10px;
 }
 
 h1,
@@ -124,20 +124,33 @@ header a {
     padding: 5px;
 }
 
-.why-join-us li {
-    list-style-position: inside;
-    list-style-type: none;
+ol {
+    list-style: none;
+    counter-reset: steps;
+    padding: 10px
+}    
+
+ol li {
+    counter-increment: steps;
+    
 }
 
-/* .list-circle {
-    height: 20px;
-    width: 20px;
-    background-color: #4A4737;
-    color: white;
-    font-family: 'Roboto Condensed', sans-serif;
-    text-align: center;
+ol li::before {
+    content: counter(steps);
+    margin-right: 0.5rem;
+    background: #FCEC88;
+    color: #4A4737;
+    width: 1.5em;
+    height: 1.5em;
     border-radius: 50%;
-} */
+    display: inline-grid;
+    place-items: center;
+    font-weight: bolder;
+}
+
+ol ol li::before {
+    background: #FCEC88;
+  }
 
 /* footer */
 
@@ -153,7 +166,6 @@ header a {
     justify-content: center;
     align-items: center;
     list-style-type: none;
-    color: #4A4737;
     font-size: 1.5rem;
     padding: 20px;
 }
