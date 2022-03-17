@@ -313,3 +313,11 @@ input[type=text]:focus {
     height: 250px;
     width: 250px;
 }
+
+/* media queries */
+
+/* large devices (desktops, less than 1200px) */
+
+/* medium devices (tablets, less than 950px) */
+
+/* small devices (phones, less than 480px) */
