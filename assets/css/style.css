@@ -69,11 +69,32 @@ header a {
 
 /* hero image */
 
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
 #hero-image {
-    height: 300px;
+    height: 600px;
     width: 100%;
     background: url('../images/hero-image.jpeg') no-repeat center center;
     background-size: cover;
+
+     /* animates zoom effect on loading page */
+     animation-name: hero-zoom;
+     animation-duration: 5s;
+     animation-fill-mode: forwards;
+}
+
+/* creates the level of zoom for hero image */
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
 }
 
 #cover-text {
@@ -276,6 +297,9 @@ input[type=text]:focus {
     margin-top: 10px;
     border: 3px solid white;
     border-radius: 4px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .gmap_canvas {
