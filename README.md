@@ -70,3 +70,12 @@ Cara McAvinchey
 ## Deployment
 
 ## Credits
+- The pairing of Roboto Condensed and Lato were chosen using [FontJoy](https://fontjoy.com/#).
+- The colors for the website was generated using [Image Color Picker] (https://imagecolorpicker.com/)
+- All images were sourced using [Pexel] (https://www.pexels.com)
+- Flexbox tutorial from [Kevin Powell] (https://www.youtube.com/watch?v=u044iM9xsWU)
+- The google maps code was generated using [Google Maps Generator](https://google-map-generator.com/)
+- The ordered list was style with the help of [CSS Tricks](https://css-tricks.com/list-style-recipes/)
+
+
+
