@@ -309,7 +309,7 @@ input[type=text]:focus {
 
 .gmap_canvas {
     overflow:hidden;
-    background:none;
+    background: none !important;
     height: 250px;
     width: 250px;
 }
