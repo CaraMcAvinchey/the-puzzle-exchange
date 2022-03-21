@@ -279,6 +279,7 @@ input[type=text]:focus {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -100%);
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25);
 }
 
 .locations-container {
@@ -290,13 +291,13 @@ input[type=text]:focus {
 .location-type-one {
     background-color: #FCEC88;
     width: 100%;
-    padding: 10px;
+    padding: 15px;
 }
 
 .location-type-two {
     background-color: white;
     width: 100%;
-    padding: 10px;
+    padding: 15px;
 }
 
 .mapouter{
@@ -305,7 +306,7 @@ input[type=text]:focus {
     height: 250px;
     width: 250px;
     margin-top: 10px;
-    border: 3px solid white;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25);
     border-radius: 4px;
     margin: auto;
     margin-top: 10px;
