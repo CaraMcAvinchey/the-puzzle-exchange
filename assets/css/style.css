@@ -81,31 +81,32 @@ header a {
     background: url('../images/hero-image.jpeg') no-repeat center center;
     background-size: cover;
 
-     /* animates zoom effect on loading page */
-     animation-name: hero-zoom;
-     animation-duration: 5s;
-     animation-fill-mode: forwards;
+    /* animates zoom effect on loading page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
 
 /* creates the level of zoom for hero image */
 @keyframes hero-zoom {
-    from{
+    from {
         transform: scale(1);
     }
-    to{
+
+    to {
         transform: scale(1.1);
     }
 }
 
 .home-cover-text {
-    background: rgba(255,255,255,.7);
+    background: rgba(255, 255, 255, .7);
     width: 250px;
     text-align: center;
     padding: 20px;
     position: absolute;
-    top: 50%;
+    top: 52%;
     left: 50%;
-    transform: translate(-50%, -100%);
+    transform: translate(-50%, -102%);
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25);
 }
 
@@ -147,12 +148,12 @@ ol {
     list-style: none;
     counter-reset: steps;
     padding: 10px
-}    
+}
 
 ol li {
     counter-increment: steps;
     padding: 3px;
-    
+
 }
 
 ol li::before {
@@ -171,7 +172,7 @@ ol li::before {
 
 ol ol li::before {
     background: #FCEC88;
-  }
+}
 
 /* footer */
 
@@ -211,21 +212,23 @@ footer a {
 .sign-up-heading {
     text-align: center;
     padding: 15px;
+    width: 80%;
 }
 
 .sign-up-form {
-    padding:15px;
+    padding: 15px;
 }
 
 .form {
-    background: rgba(255,255,255,.7);
+    background: rgba(255, 255, 255, .7);
     width: 350px;
     padding: 15px;
     font-size: 100%;
     margin-bottom: 20px;
 }
 
-input[type=text], input[type=email] {
+input[type=text],
+input[type=email] {
     width: 100%;
     padding: 10px 15px;
     margin: 5px 0;
@@ -237,7 +240,7 @@ input[type=text], input[type=email] {
 
 input[type=email]:focus {
     border: 2px solid white;
-  }
+}
 
 input[type=text]:focus {
     border: 2px solid white;
@@ -255,11 +258,11 @@ input[type=text]:focus {
     transition-duration: 0.4s;
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25);
 }
-  
-  .submit-button:hover {
+
+.submit-button:hover {
     background-color: #4A4737;
     color: white;
-  }
+}
 
 /* meet-up locations */
 
@@ -271,7 +274,7 @@ input[type=text]:focus {
 }
 
 .locations-cover-text {
-    background: rgba(255,255,255,.7);
+    background: rgba(255, 255, 255, .7);
     width: 250px;
     text-align: center;
     padding: 20px;
@@ -300,7 +303,7 @@ input[type=text]:focus {
     padding: 15px;
 }
 
-.mapouter{
+.mapouter {
     position: relative;
     text-align: right;
     height: 250px;
@@ -314,7 +317,7 @@ input[type=text]:focus {
 }
 
 .gmap_canvas {
-    overflow:hidden;
+    overflow: hidden;
     background: none !important;
     height: 250px;
     width: 250px;
@@ -322,8 +325,67 @@ input[type=text]:focus {
 
 /* media queries */
 
-/* large devices (desktops, less than 1200px) */
+/* extra large devices (desktops, less than 1200px) */
+@media (min-width: 1200px) {
+    
+    body p {
+        font-size: 1.3rem;
+    }
 
-/* medium devices (tablets, less than 950px) */
+    h2, h3 {
+        font-size: 200%; 
+    }
 
-/* small devices (phones, less than 480px) */
+    header {
+        display: flex;
+    }
+    
+    #logo {
+        color: red;
+        font-size: 300%;
+        padding: 10px;
+        margin: 15px;
+    }
+
+    .nav-list {
+        margin-top: 35px;
+        font-size: 110%
+    }
+
+    .nav-list a {
+        font-size: 150%;
+    }
+
+    .nav-list ul {
+        justify-content: right;
+    }
+
+
+
+}   
+
+/* large devices (laptops, less than 992px) */
+
+/* medium devices (tablets, less than 768px) */
+
+/* @media (min-width: 768px) {
+    /* #logo {
+        color: red;
+    } */
+
+    /* .home-cover-text {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -100%);
+    } */
+
+    /* .sign-up-heading p {
+        max-width: 100%;
+    } */
+
+/* small devices (mobile phones, less than 576px) */
+
+/* @media (min-width: 576px) {
+    /* #logo {
+        color: green;
+    } */ */
