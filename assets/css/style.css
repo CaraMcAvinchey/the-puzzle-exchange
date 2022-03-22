@@ -271,6 +271,9 @@ input[type=text]:focus {
     width: 100%;
     background: url(../images/coffee-shop-one.jpg) no-repeat center center;
     background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .locations-cover-text {
@@ -278,10 +281,6 @@ input[type=text]:focus {
     width: 250px;
     text-align: center;
     padding: 20px;
-    position: absolute;
-    top: 35%;
-    left: 50%;
-    transform: translate(-50%, -100%);
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25);
 }
 
@@ -370,12 +369,7 @@ input[type=text]:focus {
 
 }
 
-/* large devices (laptops, less than 992px) */
-
-@media (min-width: 992px) {
-    
-    
-}    
+/* large devices (laptops, less than 992px) */  
 
 /* medium devices (tablets, less than 768px) */
 
