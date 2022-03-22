@@ -16,7 +16,7 @@ body {
 header {
     width: 100%;
     background-color: white;
-    padding-top: 10px;
+    padding-top: 15px;
 }
 
 h1,
@@ -107,8 +107,7 @@ header a {
     height: fit-content;
     text-align: center;
     padding: 20px;
-    box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25);
-    
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25); 
 }
 
 /* about section */
@@ -328,12 +327,12 @@ input[type=text]:focus {
 @media (min-width: 1200px) {
 
     body p {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
     }
 
     h2,
     h3 {
-        font-size: 200%;
+        font-size: 150%;
     }
 
     header {
@@ -342,15 +341,27 @@ input[type=text]:focus {
 
     #logo {
         font-size: 300%;
-        padding: 10px;
-        margin: 15px;
+        margin-bottom: 10px;
+        margin-left: 25px;
     }
 
     nav {
         margin-left: auto;
-        margin-top: 30px;
-        padding-right: 20px;
-        font-size: 150%
+        margin-top: 10px;
+        padding-right: 25px;
+        font-size: 130%
+    }
+
+    #hero-outer {
+        height: 400px;
+    }
+
+    #hero-image {
+        height: 400px
+    }
+
+    .home-cover-text {
+        width: 300px
     }
 
     ol {
