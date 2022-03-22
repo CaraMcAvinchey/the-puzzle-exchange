@@ -80,6 +80,9 @@ header a {
     width: 100%;
     background: url('../images/hero-image.jpeg') no-repeat center center;
     background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
@@ -101,13 +104,11 @@ header a {
 .home-cover-text {
     background: rgba(255, 255, 255, .7);
     width: 250px;
+    height: fit-content;
     text-align: center;
     padding: 20px;
-    position: absolute;
-    top: 52%;
-    left: 50%;
-    transform: translate(-50%, -102%);
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25);
+    
 }
 
 /* about section */
@@ -267,7 +268,7 @@ input[type=text]:focus {
 /* meet-up locations */
 
 .locations-image {
-    height: 300px;
+    height: 400px;
     width: 100%;
     background: url(../images/coffee-shop-one.jpg) no-repeat center center;
     background-size: cover;
@@ -279,7 +280,7 @@ input[type=text]:focus {
     text-align: center;
     padding: 20px;
     position: absolute;
-    top: 50%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -100%);
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25);
@@ -308,9 +309,7 @@ input[type=text]:focus {
     text-align: right;
     height: 250px;
     width: 250px;
-    margin-top: 10px;
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25);
-    border-radius: 4px;
     margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -327,65 +326,47 @@ input[type=text]:focus {
 
 /* extra large devices (desktops, less than 1200px) */
 @media (min-width: 1200px) {
-    
+
     body p {
         font-size: 1.3rem;
     }
 
-    h2, h3 {
-        font-size: 200%; 
+    h2,
+    h3 {
+        font-size: 200%;
     }
 
     header {
         display: flex;
     }
-    
+
     #logo {
-        color: red;
         font-size: 300%;
         padding: 10px;
         margin: 15px;
     }
 
-    .nav-list {
-        margin-top: 35px;
-        font-size: 110%
+    nav {
+        margin-left: auto;
+        margin-top: 30px;
+        padding-right: 20px;
+        font-size: 150%
     }
 
-    .nav-list a {
-        font-size: 150%;
+    ol {
+        font-size: 1.3rem;
     }
 
-    .nav-list ul {
-        justify-content: right;
-    }
-
-
-
-}   
+}
 
 /* large devices (laptops, less than 992px) */
 
+@media (min-width: 992px) {
+    
+    
+}    
+
 /* medium devices (tablets, less than 768px) */
-
-/* @media (min-width: 768px) {
-    /* #logo {
-        color: red;
-    } */
-
-    /* .home-cover-text {
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -100%);
-    } */
-
-    /* .sign-up-heading p {
-        max-width: 100%;
-    } */
 
 /* small devices (mobile phones, less than 576px) */
 
-/* @media (min-width: 576px) {
-    /* #logo {
-        color: green;
-    } */ */
