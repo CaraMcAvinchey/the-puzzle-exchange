@@ -266,6 +266,12 @@ input[type=text]:focus {
 
 /* meet-up locations */
 
+#locations-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+
 .locations-image {
     height: 500px;
     width: 100%;
@@ -274,6 +280,22 @@ input[type=text]:focus {
     display: flex;
     justify-content: center;
     align-items: center;
+
+    /* animates zoom effect on loading page */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* creates the level of zoom for locations image */
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
 }
 
 .locations-cover-text {
@@ -391,8 +413,6 @@ input[type=text]:focus {
     .gmap_canvas {
         width: 500px;
     }
-
-
 
 }
 
