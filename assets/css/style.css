@@ -400,14 +400,17 @@ input[type=text]:focus {
     .location-type-one, .location-type-two {
         display: flex;
         align-items: center;
-        padding-left: 30px;
-        font-size: 110%;
         padding-left: 45px;
         font-size: 150%;
     }
 
+    .locations-container {
+        text-align: left;
+    }
+
     .mapouter {
         width: 500px;
+        margin-right: 45px
     }
     
     .gmap_canvas {

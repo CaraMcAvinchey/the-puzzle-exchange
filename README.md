@@ -39,7 +39,9 @@ Cara McAvinchey
 ### DESIGN CHOICES
 
 #### Colors
+- The hero image of a white puzzle piece on a yellow background inspired the color palette of the website.
 #### Typography
+- The logo and headings use Roboto Condensed and body text uses Lato. 
 #### Images
 - The home page has an overhead shot of a puzzle piece on a yellow background. This image inspired the color and typography choices of the website. First time visitors will understand the theme of the page from the logo and image choice.
 
@@ -84,11 +86,6 @@ Cara McAvinchey
 <img width="1430" alt="image" src="https://user-images.githubusercontent.com/97494262/158909243-29d40392-3c8f-47d5-97ed-47271ad9c59a.png">
 5. Eventually you'll see a blue area with the deployment URL and a success message.
 <img width="1430" alt="image" src="https://user-images.githubusercontent.com/97494262/158909292-7621c240-1001-4cd5-ba29-877319263e07.png">
-
-
-
-
-
 
 ## Credits
 - The pairing of Roboto Condensed and Lato were chosen using [FontJoy](https://fontjoy.com/#).
