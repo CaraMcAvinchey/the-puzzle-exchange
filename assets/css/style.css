@@ -296,10 +296,18 @@ input[type=text]:focus {
     padding: 15px;
 }
 
+.location-type-one p {
+    padding: 10px;
+}
+
 .location-type-two {
     background-color: white;
     width: 100%;
     padding: 15px;
+}
+
+.location-type-two p {
+    padding: 10px;
 }
 
 .mapouter {
@@ -372,7 +380,7 @@ input[type=text]:focus {
         align-items: center;
         padding-left: 30px;
         font-size: 110%;
-        padding-left: 50px;
+        padding-left: 45px;
         font-size: 150%;
     }
 
