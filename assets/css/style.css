@@ -267,7 +267,7 @@ input[type=text]:focus {
 /* meet-up locations */
 
 .locations-image {
-    height: 400px;
+    height: 500px;
     width: 100%;
     background: url(../images/coffee-shop-one.jpg) no-repeat center center;
     background-size: cover;
@@ -278,7 +278,7 @@ input[type=text]:focus {
 
 .locations-cover-text {
     background: rgba(255, 255, 255, .7);
-    width: 250px;
+    width: 300px;
     text-align: center;
     padding: 20px;
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25);
@@ -305,19 +305,19 @@ input[type=text]:focus {
 .mapouter {
     position: relative;
     text-align: right;
-    height: 250px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25);
     margin: auto;
-    margin-top: 10px;
+    margin-top: 15px;
     margin-bottom: 10px;
 }
 
 .gmap_canvas {
     overflow: hidden;
     background: none !important;
-    height: 250px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
 }
 
 /* media queries */
@@ -359,13 +359,32 @@ input[type=text]:focus {
         height: 400px
     }
 
-    .home-cover-text {
+    .home-cover-text, .locations-cover-text {
         width: 300px
     }
 
     ol {
         font-size: 1.3rem;
     }
+
+    .location-type-one, .location-type-two {
+        display: flex;
+        align-items: center;
+        padding-left: 30px;
+        font-size: 110%;
+        padding-left: 50px;
+        font-size: 150%;
+    }
+
+    .mapouter {
+        width: 500px;
+    }
+    
+    .gmap_canvas {
+        width: 500px;
+    }
+
+
 
 }
 

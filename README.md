@@ -38,10 +38,14 @@ Cara McAvinchey
  
 ### DESIGN CHOICES
 
-**Colors**
-**Typography**
-**Images**
-**Animations**
+#### Colors
+#### Typography
+#### Images
+- The home page has an overhead shot of a puzzle piece on a yellow background. This image inspired the color and typography choices of the website. First time visitors will understand the theme of the page from the logo and image choice.
+
+#### Animations
+- The home page image has a subtle zoom effect when users load the page to add some depth and interest to the page.
+- Each navigation item has a hover state which when the user 
 
 ### FEATURES
 
