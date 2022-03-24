@@ -429,11 +429,12 @@ input[type=text]:focus {
     display: flex;
     justify-content: center;
     align-items: center;
+    display: flex;
 }
 
 .error-page-image a {
     text-decoration: none;
-    text-align: right;
+    font-size: 110%;
 
 }
 
