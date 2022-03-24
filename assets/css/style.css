@@ -18,7 +18,7 @@ header {
     width: 100%;
     padding-top: 15px;
     border-bottom: solid 7px #4A4737;
-    height: 115px;
+    height: auto;
 }
 
 h1,
@@ -402,7 +402,7 @@ footer {
     }
 
     header {
-        height: 115px;
+        /* height: 115px; */
     }
 
     .home-cover-text, .locations-cover-text {
@@ -436,7 +436,7 @@ footer {
 
 @media (min-width: 576px) {
     header {
-        height: 80px;
+        height: auto;
     }
 
     .form {
