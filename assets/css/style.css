@@ -9,14 +9,16 @@
 body {
     font-family: 'Lato', sans-serif;
     color: #4A4737;
+    background: #FEF9E8;
 }
 
 /* headings and logo */
 
 header {
     width: 100%;
-    background-color: white;
     padding-top: 15px;
+    border-bottom: solid 7px #4A4737;
+    height: 115px;
 }
 
 h1,
@@ -26,6 +28,7 @@ h3 {
     font-size: 140%;
     text-transform: uppercase;
     color: #4A4737;
+    text-align: center;
 }
 
 #logo {
@@ -60,11 +63,11 @@ header a {
 }
 
 .nav-list a:hover {
-    border-bottom: 2px solid #4A4737;
+    border-bottom: 3px solid #4A4737;
 }
 
 .active {
-    border-bottom: 2px solid #4A4737;
+    border-bottom: 3px solid #4A4737;
 }
 
 /* hero image */
@@ -107,7 +110,7 @@ header a {
     height: fit-content;
     text-align: center;
     padding: 20px;
-    box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25); 
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, .25);
 }
 
 /* about section */
@@ -121,6 +124,7 @@ header a {
     gap: 1rem;
     justify-content: center;
     align-items: center;
+    text-align: left;
 }
 
 .about-us,
@@ -142,6 +146,8 @@ header a {
     text-transform: uppercase;
     color: #4A4737;
     padding: 5px;
+    text-align: center;
+    display: block;
 }
 
 ol {
@@ -198,7 +204,7 @@ footer a {
 }
 
 footer a:hover {
-    color:#FCEC88
+    color: #FCEC88
 }
 
 /* sign up form */
@@ -218,6 +224,10 @@ footer a:hover {
     text-align: center;
     padding: 15px;
     width: 80%;
+    background: rgba(255, 255, 255, .7);
+    max-width: calc(100% - 30px);
+    margin: 0 auto;
+
 }
 
 .sign-up-form {
@@ -226,7 +236,6 @@ footer a:hover {
 
 .form {
     background: rgba(255, 255, 255, .7);
-    width: 350px;
     padding: 15px;
     font-size: 100%;
     margin-bottom: 20px;
@@ -317,6 +326,10 @@ input[type=text]:focus {
     text-align: center;
 }
 
+.locations-container h2 {
+    text-align: left;
+}
+
 .location-type-one {
     background-color: #FCEC88;
     width: 100%;
@@ -324,17 +337,16 @@ input[type=text]:focus {
 }
 
 .location-type-one p {
-    padding: 10px;
+    padding: 5px;
 }
 
 .location-type-two {
-    background-color: white;
     width: 100%;
     padding: 15px;
 }
 
 .location-type-two p {
-    padding: 10px;
+    padding: 5px;
 }
 
 .mapouter {
@@ -355,7 +367,7 @@ input[type=text]:focus {
     width: 300px;
 }
 
-/* 404 error page */ 
+/* 404 error page */
 
 .error-page-image {
     height: 300px;
@@ -369,13 +381,79 @@ input[type=text]:focus {
 
 .error-page-image h2 {
     margin-left: 15px;
+}
 
+footer {
+    background: #FEF9E8;
+    border-top: solid 7px #4A4737;
+}
+
+.media-width-warning {
+    background: #322f2a;
+    color: whitesmoke;
 }
 
 /* media queries */
 
-/* extra large devices (desktops, less than 1200px) */
-@media (min-width: 1200px) {
+/* unfolded phones (mobile phones, 320px and bigger) */
+@media (min-width: 320px) {
+    .media-width-warning {
+        display: none;
+    }
+
+    header {
+        height: 115px;
+    }
+
+    .home-cover-text, .locations-cover-text {
+        width: 200px;
+    }
+
+    .about-us,
+    .our-story,
+    .why-join-us {
+        width: 80%;
+    }
+
+    .text-emphasis, h3 {
+        text-align: left;
+    }
+
+    p {
+        padding: 5px;
+    }
+
+    .sign-up-heading {
+        margin-top: 10px;
+    }
+
+    .location-type-one, .location-type-two p {
+        text-align: left;
+    }
+}
+
+/* small devices (mobile phones, less than 576px) */
+
+@media (min-width: 576px) {
+    header {
+        height: 80px;
+    }
+
+    .form {
+        width: 350px;
+    }
+
+    .sign-up-heading {
+        margin-top: 10px;
+    }
+
+}
+
+/* medium devices (tablets, less than 768px) */
+
+/* large devices (laptops, less than 992px) */
+
+@media (min-width: 992px) {
 
     body p {
         font-size: 1.2rem;
@@ -411,7 +489,8 @@ input[type=text]:focus {
         height: 400px
     }
 
-    .home-cover-text, .locations-cover-text {
+    .home-cover-text,
+    .locations-cover-text {
         width: 300px
     }
 
@@ -419,7 +498,83 @@ input[type=text]:focus {
         font-size: 1.3rem;
     }
 
-    .location-type-one, .location-type-two {
+    .location-type-one,
+    .location-type-two {
+        display: flex;
+        align-items: center;
+        padding: 15px;
+        font-size: 140%;
+    }
+
+    .location-content {
+        width: 420px;
+        margin-left: 10px;
+    }
+
+    .locations-container {
+        text-align: left;
+    }
+
+    .mapouter {
+        width: 500px;
+        margin-right: 20px;
+    }
+
+    .gmap_canvas {
+        width: 500px;
+    }
+}
+
+/* extra large devices (desktops, less than 1200px) */
+
+@media (min-width: 1200px) {
+
+    body p {
+        font-size: 1.2rem;
+    }
+
+    h2,
+    h3 {
+        font-size: 150%;
+    }
+
+    header {
+        display: flex;
+        height: auto;
+    }
+
+    #logo {
+        font-size: 300%;
+        margin-bottom: 10px;
+        margin-left: 25px;
+    }
+
+    nav {
+        margin-left: auto;
+        margin-top: 10px;
+        padding-right: 25px;
+        font-size: 130%
+    }
+
+    #hero-outer {
+        height: 400px;
+    }
+
+    #hero-image {
+        height: 400px
+    }
+
+    .home-cover-text,
+    .locations-cover-text {
+        width: 300px
+    }
+
+    ol {
+        font-size: 1.3rem;
+    }
+
+    .location-type-one,
+    .location-type-two {
         display: flex;
         align-items: center;
         padding-left: 45px;
@@ -434,16 +589,16 @@ input[type=text]:focus {
         width: 500px;
         margin-right: 45px
     }
-    
+
     .gmap_canvas {
         width: 500px;
     }
 
+    .content-wrapper {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        padding-left: 45px;
+    }
 }
-
-/* large devices (laptops, less than 992px) */  
-
-/* medium devices (tablets, less than 768px) */
-
-/* small devices (mobile phones, less than 576px) */
-
