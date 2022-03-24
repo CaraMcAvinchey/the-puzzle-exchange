@@ -194,6 +194,11 @@ ol ol li::before {
 
 footer a {
     color: #4A4737;
+    font-size: 120%;
+}
+
+footer a:hover {
+    color:#FCEC88
 }
 
 /* sign up form */
