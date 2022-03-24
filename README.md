@@ -43,7 +43,7 @@ Cara McAvinchey
 ### DESIGN CHOICES
 
 #### Colors
-- The hero image of a white puzzle piece on a yellow background inspired the color palette of the website including a dark grey for he headings and body text.
+- The hero image of a white puzzle piece on a yellow background inspired the color palette of the website. The headings and body text are dark grey to ensure clear contrast and readability for the user.
 #### Typography
 - The logo and headings use Roboto Condensed and body text uses Lato. 
 #### Images
@@ -58,6 +58,14 @@ Cara McAvinchey
 - The fully responsive navigation bar is identical in each page for easy navigation. It is featured on all three pages and includes links to the logo, home page, locations page and sign up page.
 - The user will be able to easily navigate from page to page across all devices without having to use the 'back' button to revert to the previous page.
 - Each navigation item has an underlined hover state when the user scrolls over the page they wish to visit. 
+
+<img width="1419" alt="image" src="https://user-images.githubusercontent.com/97494262/159835681-199044cf-274e-4110-8dc5-de11a2f8f8a0.png">
+
+### Hero Image
+- The landing page includes hero image with text overlay to welcome first time and returning users to the page.
+- This section introduces the user to The Puzzle Exchange with an eye catching animation to grab their attention.
+
+<img width="1428" alt="image" src="https://user-images.githubusercontent.com/97494262/159836450-7f7ff135-e7ef-4946-b689-25f6a75a4dc4.png">
 
 ### Home Page 
 - The user will be able to learn about the Puzzle Exchange group and it's origin via the 'about us' and 'our story' sections.
@@ -75,6 +83,8 @@ Cara McAvinchey
 ### Footer
 - This section includes links to the relevant social media sites for the Puzzle Exchange group and contact details. The links will open to a new tab to allow easy navigation for the user.
 - First time users and returning users will be able to connect with members via social media or contact the organisers for further information.
+
+<img width="325" alt="image" src="https://user-images.githubusercontent.com/97494262/159835780-1bdd6b35-21f7-44ad-9cc3-ccee1f74f338.png">
 
 ## Testing
 
