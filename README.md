@@ -52,6 +52,9 @@ Cara McAvinchey
 #### Animations
 - The home and locations page images have a subtle zoom effect when users load the page to add some depth and interest to the website.
 
+#### Responsivness
+- The website was designed using flexbox instead of float or grid to avoid fixed heights and ensure responsiveness throughout the website.
+
 ### FEATURES
 
 ### Navigation Bar
@@ -59,7 +62,7 @@ Cara McAvinchey
 - The user will be able to easily navigate from page to page across all devices without having to use the 'back' button to revert to the previous page.
 - Each navigation item has an underlined hover state when the user scrolls over the page they wish to visit. 
 
-<img width="1419" alt="image" src="https://user-images.githubusercontent.com/97494262/159835681-199044cf-274e-4110-8dc5-de11a2f8f8a0.png">
+<img width="778" alt="image" src="https://user-images.githubusercontent.com/97494262/160029308-5cd8d97e-c138-4e09-8dca-eec0d11874cb.png">
 
 ### Hero Image
 - The landing page includes hero image with text overlay to welcome first time and returning users to the page.
@@ -71,24 +74,30 @@ Cara McAvinchey
 - The user will be able to learn about the Puzzle Exchange group and it's origin via the 'about us' and 'our story' sections.
 - The 'why join us' section will encourage the user further connect with the purpose of the meet up group.
 
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/97494262/160029508-455b28e9-482e-4dde-a88e-6fc1c146a69c.png">
+
 ### Locations Page
 - This section will allow the user to find out when the exchange meetups will happen, where they will be located and at what time.
 - The page will be updated as the coffee shop locations and times change to keep the user up to date.
+
+
 
 ### Sign up Page
 - This page will allow the user to sign up with the Puzzle Exchange group to start connecting with fellow puzzle builders in the next meet up.
 - The user will be able specify if they have a puzzle to exchange or not and will be asked to submit their full name and email address.
 - The submit button will open in a new tab once clicked to ensure a good user experience without having to use the 'back' button to revert to the previous page.
 
+<img width="765" alt="image" src="https://user-images.githubusercontent.com/97494262/160029451-d1ec0c94-7ce8-45b2-9329-cbb0abfd420b.png">
+
 ### Footer
 - This section includes links to the relevant social media sites for the Puzzle Exchange group and contact details. The links will open to a new tab to allow easy navigation for the user.
 - First time users and returning users will be able to connect with members via social media or contact the organisers for further information.
 
-<img width="325" alt="image" src="https://user-images.githubusercontent.com/97494262/159835780-1bdd6b35-21f7-44ad-9cc3-ccee1f74f338.png">
+<img width="781" alt="image" src="https://user-images.githubusercontent.com/97494262/160029347-282fedac-e008-4bb5-9e4d-0955465399c3.png">
 
 ## Testing
 
-## Accessability
+## Accessibility
 
 ## Deployment
 1. Click on the settings link in the menu:
