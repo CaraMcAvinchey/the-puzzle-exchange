@@ -382,7 +382,9 @@ input[type=text]:focus {
 }
 
 .error-page-image h2 {
-    margin-left: 15px;
+    font-size: 200%;
+    background: rgba(255, 255, 255, .7);
+    padding: 15px;
 }
 
 footer {
