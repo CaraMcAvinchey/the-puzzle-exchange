@@ -128,9 +128,9 @@ Cara McAvinchey
 You should try to ensure you code is valid and follows proper indentation. In this section you should write up any websites you used to validate your code. As your projects becomes more complex these tools may change.
 
 - HTML
-   - No errors were returned when passing through the official [W3C validator] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F)
+   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F)
 - CSS
-   - No errors were found when passing through the [HTML validator] (https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+   - No errors were found when passing through the [HTML validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Accessibility
 
@@ -157,10 +157,10 @@ You should try to ensure you code is valid and follows proper indentation. In th
 - All content was written by the developer.
 ### Media
 - The pairing of Roboto Condensed and Lato were chosen using [FontJoy](https://fontjoy.com/#).
-- The colors for the website was generated using [Image Color Picker] (https://imagecolorpicker.com/)
+- The colors for the website was generated using [Image Color Picker](https://imagecolorpicker.com/)
 - All images were sourced using [Pexel] (https://www.pexels.com)
-- The icons in the footer, about page and location headings were taken from [Font Awesome] (https://fontawesome.com/)
-- Flexbox tutorial and instructions from [Kevin Powell] (https://www.youtube.com/watch?v=u044iM9xsWU) and article from [Tania Rascia] (https://www.taniarascia.com/easiest-flex-grid-ever/)
+- The icons in the footer, about page and location headings were taken from [Font Awesome](https://fontawesome.com/)
+- Flexbox tutorial and instructions from [Kevin Powell](https://www.youtube.com/watch?v=u044iM9xsWU) and article from [Tania Rascia](https://www.taniarascia.com/easiest-flex-grid-ever/)
 - The google maps code was generated using [Google Maps Generator](https://google-map-generator.com/)
 - The ordered list was styled with the help and instructions of [CSS Tricks](https://css-tricks.com/list-style-recipes/)
 
