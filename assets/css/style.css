@@ -461,13 +461,8 @@ footer {
 /* medium devices (tablets, less than 768px) */
 
 @media (min-width: 768px) {
-    .content-wrapper {
-        max-width: 1200px;
-        margin: 0 auto;
-        display: flex;
-        align-items: center;
-        padding-left: 45px;
-    }
+
+    
 
 }
 
@@ -535,6 +530,15 @@ footer {
     .locations-container {
         text-align: left;
     }
+
+    .sign-up-heading {
+        max-width: 50%;
+    }
+
+    .sign-up-form {
+        margin-right: 10px;
+    }
+
 }
 
 /* extra large devices (desktops, less than 1200px) */
@@ -602,6 +606,13 @@ footer {
         margin: 0 auto;
         display: flex;
         align-items: center;
-        padding-left: 45px;
+    }
+
+    .sign-up-heading {
+        max-width: 50%;
+    }
+
+    .sign-up-form {
+        margin-right: 10px;
     }
 }
