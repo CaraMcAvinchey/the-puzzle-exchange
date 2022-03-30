@@ -434,6 +434,12 @@ footer {
     .location-type-one,
     .location-type-two p {
         text-align: left;
+        font-size: 100%;
+    }
+
+    .location-content {
+        width: 100%;
+        margin-top: 10px;
     }
 }
 
@@ -444,6 +450,28 @@ footer {
         height: auto;
     }
 
+    .location-type-one,
+    .location-type-two {
+        display: flex;
+        align-items: center;
+        padding: 15px;
+        font-size: 120%;
+    }
+
+    .location-content {
+        width: 100%;
+        margin-top: 10px;
+    }
+    
+    .content-wrapper {
+        max-width: 100%;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-top: 5px;
+    }
+
     .form {
         width: 350px;
     }
@@ -452,17 +480,32 @@ footer {
         margin-top: 15px;
     }
 
-    .mapouter {
-        margin-left: 0;
-    }
-
 }
 
 /* medium devices (tablets, less than 768px) */
 
 @media (min-width: 768px) {
+    
+    .location-type-one,
+    .location-type-two {
+        display: flex;
+        align-items: center;
+        padding: 15px;
+        font-size: 120%;
+    }
 
-
+    .location-content {
+        width: 100%;
+        margin-top: 10px;
+    }
+    
+    .content-wrapper {
+        max-width: 100%;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
 
 }
 
@@ -518,7 +561,7 @@ footer {
         display: flex;
         align-items: center;
         padding: 15px;
-        font-size: 140%;
+        font-size: 150%;
     }
 
     .location-content {
@@ -527,8 +570,11 @@ footer {
         padding-right: 40px;
     }
 
-    .locations-container {
-        text-align: left;
+    .content-wrapper {
+        max-width: 900px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
     }
 
     .sign-up-heading {
@@ -595,10 +641,6 @@ footer {
         align-items: center;
         padding-left: 45px;
         font-size: 150%;
-    }
-
-    .locations-container {
-        text-align: left;
     }
 
     .content-wrapper {
