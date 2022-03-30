@@ -124,6 +124,14 @@ Cara McAvinchey
 
 ## Testing
 
+### Validation Testing
+You should try to ensure you code is valid and follows proper indentation. In this section you should write up any websites you used to validate your code. As your projects becomes more complex these tools may change.
+
+- HTML
+   - No errors were returned when passing through the official W3C validator
+- CSS
+   - No errors were found when passing through the official (Jigsaw) validator
+
 ## Accessibility
 
 ### Lighthouse Audit
