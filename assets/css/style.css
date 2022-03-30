@@ -477,7 +477,9 @@ footer {
     }
 
     .sign-up-heading {
-        margin-top: 15px;
+        margin-right: 8%;
+        margin-top: 20px;
+        margin-bottom: 10px;
     }
 
 }
@@ -505,6 +507,12 @@ footer {
         display: flex;
         flex-wrap: wrap;
         align-items: center;
+    }
+
+    .sign-up-heading {
+        margin-right: 8%;
+        margin-top: 20px;
+        margin-bottom: 10px;
     }
 
 }
@@ -575,10 +583,6 @@ footer {
         margin: 0 auto;
         display: flex;
         align-items: center;
-    }
-
-    .sign-up-heading {
-        max-width: 50%;
     }
 
     .sign-up-form {
@@ -652,9 +656,10 @@ footer {
 
     .sign-up-heading {
         max-width: 50%;
+        margin-bottom: 40px;
     }
 
     .sign-up-form {
-        margin-right: 10px;
+        margin: 15px;
     }
 }
