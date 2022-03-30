@@ -6,8 +6,8 @@ Cara McAvinchey
 ## Project Overview
 - The Puzzle Exchange is a website that hopes to connect people who enjoy the simple pleasure of building a puzzle with friends and wish to exchange the sets they are no longer building with something new.
 - Each month members meet up at a local coffee shop in Cape Town, South Africa and exchange their puzzle sets with each other to take home or simply meetup and join in on a puzzle build for the afternoon.
-- Puzzle Club is useful for anyone looking to socialise, relax and enjoy a cup of coffee whilst enjoying a hobby together.
-- The users of this website will be able to find all the information they need about the group to join the exchange club including monthly meet up times, locations and a sign up form.
+- This group is useful for anyone looking to socialise, relax and enjoy a hobby they have in common together.
+- The users of this website will be able to find all the information they need to join the exchange club including monthly meet up times, locations and a sign up form.
 
 [Deployed URL](https://caramcavinchey.github.io/the-puzzle-exchange/)
 
@@ -128,8 +128,11 @@ Cara McAvinchey
 ### Validation Testing
 - HTML
    - No errors were returned when passing through the official [HTML validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F)
+<img width="775" alt="image" src="https://user-images.githubusercontent.com/97494262/160891160-dd817a7a-ba05-4287-b640-78fed5bcd9d4.png"> 
+
 - CSS
-   - No errors were found when passing through the [CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+   - No errors were found when passing through the [CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
+<img width="1414" alt="image" src="https://user-images.githubusercontent.com/97494262/160890992-a96e8381-ed63-4bee-bef7-ea290414007a.png">
 
 ## Accessibility
 
@@ -154,16 +157,19 @@ Cara McAvinchey
 
 ## Credits
 - All content was written by the developer.
+
 ### Media
-- The pairing of Roboto Condensed and Lato were chosen using [FontJoy](https://fontjoy.com/#).
-- The colors for the website was generated using [Image Color Picker](https://imagecolorpicker.com/)
-- All images were sourced using [Pexel](https://www.pexels.com)
+- The pairing of Roboto Condensed and Lato were chosen using [FontJoy](https://fontjoy.com/#) and [Google Fonts](https://fonts.google.com/share?selection.family=Lato|Roboto+Condensed:wght@700). 
+- The colors for the website was generated using [Image Color Picker](https://imagecolorpicker.com/).
+- All images were sourced using [Pexel](https://www.pexels.com).
 - The icons in the footer, about page and location headings were taken from [Font Awesome](https://fontawesome.com/)
-- Flexbox tutorial and instructions from [Kevin Powell](https://www.youtube.com/watch?v=u044iM9xsWU) and article from [Tania Rascia](https://www.taniarascia.com/easiest-flex-grid-ever/)
 - The google maps code was generated using [Google Maps Generator](https://google-map-generator.com/)
 - The ordered list was styled with the help and instructions of [CSS Tricks](https://css-tricks.com/list-style-recipes/)
+
 
 ## Acknowledgements
 - Thank you to my mentor for continuous helpful feedback and support throughout the project.
 - The tutors at Code Institute for their patience and support.
-
+- The Slack community for tips and guidance.
+- Flexbox tutorial and instructions from [Kevin Powell](https://www.youtube.com/watch?v=u044iM9xsWU) and flexbox article from [Tania Rascia](https://www.taniarascia.com/easiest-flex-grid-ever/).
+- Extra coding support for the sign up form via [W3schools](https://www.w3schools.com/).
