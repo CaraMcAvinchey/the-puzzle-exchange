@@ -52,10 +52,10 @@ Cara McAvinchey
 
 ### Typography
 - The logo and headings use Roboto Condensed and body text uses Lato with a fall-back font of san-serif. 
-- The choice of Roboto Condensed and Lato were selected using [Google Fonts](https://fonts.google.com/share?selection.family=Lato|Roboto+Condensed:wght@700) 
+- The choice of Roboto Condensed and Lato were selected using [Google Fonts](https://fonts.google.com/share?selection.family=Lato|Roboto+Condensed:wght@700). 
 - The headings descrease in size to ensure full responsiveness of the website.
 
-<img width="500" height="500" alt="Screenshot 2022-03-30 at 22 31 13" src="https://user-images.githubusercontent.com/97494262/160859641-f6154433-3871-4f94-a47e-18886da43c2b.png">
+<img width="500" alt="Screenshot 2022-03-30 at 22 31 13" src="https://user-images.githubusercontent.com/97494262/160859641-f6154433-3871-4f94-a47e-18886da43c2b.png">
 
 ### Images
 - The home page has an overhead shot of a puzzle piece on a yellow background. This image inspired the color and typography choices of the website. First time visitors will understand the theme of the page from the logo and image choice, followed.
@@ -68,6 +68,15 @@ Cara McAvinchey
 - The website was designed using flexbox instead of float or grid to avoid fixed heights and ensure responsiveness throughout the website.
 
 ## WIREFRAMES
+
+### Mobile
+<img width="609" alt="image" src="https://user-images.githubusercontent.com/97494262/160878220-739eb1c1-83eb-4eb6-a07e-6b588fd11f18.png">
+
+### Tablet
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/97494262/160878291-ccfb02e2-ba11-46d9-9f15-3a70604a3e59.png">
+
+### Desktop
+<img width="879" alt="image" src="https://user-images.githubusercontent.com/97494262/160878376-6da64016-1f3e-4eaf-b3e9-c98fcc29b059.png">
 
 ## FEATURES
 
