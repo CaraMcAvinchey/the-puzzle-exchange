@@ -23,18 +23,18 @@ Cara McAvinchey
 
 ### USER STORIES
 1. As a first time visitor,
-    * I want to learn more about the Puzzle Exchange and what the club is all about.
+    * I want to learn more about the Puzzle Exchange and what the group is all about.
     * I want to investigate the meet up locations, times and how to sign up as a member.
     * I want to find the social media links to see their following and to look at photos from past meet ups.
 
 2. As a returning visitor,
     * I want to find out where the next meet up location will be for the month.
-    * I want to get in contact with the organisers about the exchange process.
-    * I want to sign up as a member.
+    * I want to contact the organisers about the exchange process.
+    * I want to sign up as a new member after considering my decision.
 
-3. As a Frequent User, 
+3. As a frequent user, 
     * I want to check to see if there are any new meet up locations for the month.
-    * I want to contact the organisers about borrowing, returning or add a new puzzle to the exchange.       
+    * I want to contact the organisers about borrowing, returning or add a new puzzle to the exchange or general queries.       
 
 ### USER PROFILES
 
@@ -42,31 +42,37 @@ Cara McAvinchey
 
 2. Gavin enjoys purchasing new puzzles and completing them during his weekends. He has finished building all of his sets and would like something new. Instead of purchasing more, he meets up with the exchange club each month to swop his sets with another member.
  
-### DESIGN CHOICES
+## DESIGN CHOICES
 
-#### Colors
+### Colors
 - The hero image of a white puzzle piece on a yellow background inspired the color palette of the website. The headings and body text are dark grey to ensure clear contrast and readability for the user.
+- Yellow is a bright and optimistic color which links to the purpose of the group being to connect and make friends.
 
 ![Puzzle Exchange](https://user-images.githubusercontent.com/97494262/160860917-3d71d4dc-e5e9-4b75-8caf-0ec1eab9321f.png)
 
-#### Typography
-- The logo and headings use Roboto Condensed and body text uses Lato. 
+### Typography
+- The logo and headings use Roboto Condensed and body text uses Lato with a fall-back font of san-serif. 
+- The choice of Roboto Condensed and Lato were selected using [Google Fonts](https://fonts.google.com/share?selection.family=Lato|Roboto+Condensed:wght@700) 
+- The headings descrease in size to ensure full responsiveness of the website.
 
 <img width="1033" alt="Screenshot 2022-03-30 at 22 31 13" src="https://user-images.githubusercontent.com/97494262/160859641-f6154433-3871-4f94-a47e-18886da43c2b.png">
 
-#### Images
-- The home page has an overhead shot of a puzzle piece on a yellow background. This image inspired the color and typography choices of the website. First time visitors will understand the theme of the page from the logo and image choice.
+### Images
+- The home page has an overhead shot of a puzzle piece on a yellow background. This image inspired the color and typography choices of the website. First time visitors will understand the theme of the page from the logo and image choice, followed.
+- The icons chosen for headings linked to the content being introduced.
 
-#### Animations
+### Animations
 - The home and locations page images have a subtle zoom effect when users load the page to add some depth and interest to the website.
 
-#### Responsivness
+### Responsivness
 - The website was designed using flexbox instead of float or grid to avoid fixed heights and ensure responsiveness throughout the website.
 
-### FEATURES
+## WIREFRAMES
+
+## FEATURES
 
 ### Navigation Bar
-- The fully responsive navigation bar is identical in each page for easy navigation. It is featured on all three pages and includes links to the logo, home page, locations page and sign up page.
+- The fully responsive navigation bar is identical in each page for easy navigation. It is featured on all three pages and includes links to the home page, locations page and sign up page. The user can click on the logo to return to the home page at any time.
 - The user will be able to easily navigate from page to page across all devices without having to use the 'back' button to revert to the previous page.
 - Each navigation item has an underlined hover state when the user scrolls over the page they wish to visit. 
 
@@ -80,13 +86,13 @@ Cara McAvinchey
 
 ### Home Page 
 - The user will be able to learn about the Puzzle Exchange group and it's origin via the 'about us' and 'our story' sections.
-- The 'why join us' section will encourage the user further connect with the purpose of the meet up group.
+- The 'why join us' section will encourage the user further connect with the purpose of the group.
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/97494262/160029508-455b28e9-482e-4dde-a88e-6fc1c146a69c.png">
 
 ### Locations Page
 - This section will allow the user to find out when the exchange meetups will happen, where they will be located and at what time.
-- The page will be updated as the coffee shop locations and times change to keep the user up to date.
+- The page will be updated as the coffee shop locations and times change throughout the year to keep the user up to date.
 
 <img width="514" alt="Screenshot 2022-03-30 at 22 20 35" src="https://user-images.githubusercontent.com/97494262/160857196-ab5ca9ed-ff92-461b-8eb5-edbaf1745ad7.png">
 
