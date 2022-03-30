@@ -48,7 +48,7 @@ Cara McAvinchey
 - The hero image of a white puzzle piece on a yellow background inspired the color palette of the website. The headings and body text are dark grey to ensure clear contrast and readability for the user.
 - Yellow is a bright and optimistic color which links to the purpose of the group being to connect and make friends.
 
-![Puzzle Exchange](https://user-images.githubusercontent.com/97494262/160860917-3d71d4dc-e5e9-4b75-8caf-0ec1eab9321f.png)
+<img width="250" height="250" alt="image" src="https://user-images.githubusercontent.com/97494262/160872767-e10e152e-b90c-4e99-a63b-4ff0535bcb5c.png">
 
 ### Typography
 - The logo and headings use Roboto Condensed and body text uses Lato with a fall-back font of san-serif. 
