@@ -58,8 +58,9 @@ Cara McAvinchey
 <img width="500" alt="Screenshot 2022-03-30 at 22 31 13" src="https://user-images.githubusercontent.com/97494262/160859641-f6154433-3871-4f94-a47e-18886da43c2b.png">
 
 ### Images
-- The home page has an overhead shot of a puzzle piece on a yellow background. This image inspired the color and typography choices of the website. First time visitors will understand the theme of the page from the logo and image choice, followed.
-- The icons chosen for headings linked to the content being introduced.
+- The home page has an overhead shot of a puzzle piece on a yellow background sourced from [Pexel](https://www.pexels.com).
+- This image inspired the color and typography choices of the website. First time visitors will understand the theme of the page from the logo and image choice.
+- The icons chosen for headings linked to the content being introduced sourced from [Font Awesome](https://fontawesome.com/).
 
 ### Animations
 - The home and locations page images have a subtle zoom effect when users load the page to add some depth and interest to the website.
@@ -88,7 +89,7 @@ Cara McAvinchey
 <img width="778" alt="image" src="https://user-images.githubusercontent.com/97494262/160029308-5cd8d97e-c138-4e09-8dca-eec0d11874cb.png">
 
 ### Hero Image
-- The landing page includes hero image with text overlay to welcome first time and returning users to the page.
+- The landing page includes the hero image with text overlay to welcome first time and returning users to the page.
 - This section introduces the user to The Puzzle Exchange with an eye catching animation to grab their attention.
 
 <img width="1428" alt="image" src="https://user-images.githubusercontent.com/97494262/159836450-7f7ff135-e7ef-4946-b689-25f6a75a4dc4.png">
@@ -119,18 +120,16 @@ Cara McAvinchey
 <img width="781" alt="image" src="https://user-images.githubusercontent.com/97494262/160029347-282fedac-e008-4bb5-9e4d-0955465399c3.png">
 
 ### Features for Future Development
-- A gallery page will be developed to showcase photos from previous meetups for new and returning visitors to see.
-- An online catalogue of puzzles in circulation for members to browse before a meetup. 
+- A gallery page to showcase moments from previous meetups for new and returning visitors to see.
+- A possible online catalogue of puzzle sets in circulation for members to browse through before a meetup. 
 
 ## Testing
 
 ### Validation Testing
-You should try to ensure you code is valid and follows proper indentation. In this section you should write up any websites you used to validate your code. As your projects becomes more complex these tools may change.
-
 - HTML
-   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F)
+   - No errors were returned when passing through the official [HTML validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F)
 - CSS
-   - No errors were found when passing through the [HTML validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+   - No errors were found when passing through the [CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Accessibility
 
@@ -158,7 +157,7 @@ You should try to ensure you code is valid and follows proper indentation. In th
 ### Media
 - The pairing of Roboto Condensed and Lato were chosen using [FontJoy](https://fontjoy.com/#).
 - The colors for the website was generated using [Image Color Picker](https://imagecolorpicker.com/)
-- All images were sourced using [Pexel] (https://www.pexels.com)
+- All images were sourced using [Pexel](https://www.pexels.com)
 - The icons in the footer, about page and location headings were taken from [Font Awesome](https://fontawesome.com/)
 - Flexbox tutorial and instructions from [Kevin Powell](https://www.youtube.com/watch?v=u044iM9xsWU) and article from [Tania Rascia](https://www.taniarascia.com/easiest-flex-grid-ever/)
 - The google maps code was generated using [Google Maps Generator](https://google-map-generator.com/)
