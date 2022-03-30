@@ -47,11 +47,13 @@ Cara McAvinchey
 #### Colors
 - The hero image of a white puzzle piece on a yellow background inspired the color palette of the website. The headings and body text are dark grey to ensure clear contrast and readability for the user.
 
-<img width="130" alt="image" src="https://user-images.githubusercontent.com/97494262/160855520-c3bfa9d0-f0af-4053-bdda-5316db1d792b.png">
-<img width="123" alt="image" src="https://user-images.githubusercontent.com/97494262/160855651-abff9f87-0207-4392-ae01-a50a3f58cdd9.png">
+![Puzzle Exchange](https://user-images.githubusercontent.com/97494262/160860917-3d71d4dc-e5e9-4b75-8caf-0ec1eab9321f.png)
 
 #### Typography
 - The logo and headings use Roboto Condensed and body text uses Lato. 
+
+<img width="1033" alt="Screenshot 2022-03-30 at 22 31 13" src="https://user-images.githubusercontent.com/97494262/160859641-f6154433-3871-4f94-a47e-18886da43c2b.png">
+
 #### Images
 - The home page has an overhead shot of a puzzle piece on a yellow background. This image inspired the color and typography choices of the website. First time visitors will understand the theme of the page from the logo and image choice.
 
