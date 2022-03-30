@@ -9,7 +9,9 @@ Cara McAvinchey
 - Puzzle Club is useful for anyone looking to socialise, relax and enjoy a cup of coffee whilst enjoying a hobby together.
 - The users of this website will be able to find all the information they need about the group to join the exchange club including monthly meet up times, locations and a sign up form.
 
-[Deployed URl](https://caramcavinchey.github.io/the-puzzle-exchange/)
+[Deployed URL](https://caramcavinchey.github.io/the-puzzle-exchange/)
+
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/97494262/160856912-eab0e928-3f25-4dc2-9a45-98e64f1835a4.png">
 
 ## Table of Contents
 
@@ -44,6 +46,10 @@ Cara McAvinchey
 
 #### Colors
 - The hero image of a white puzzle piece on a yellow background inspired the color palette of the website. The headings and body text are dark grey to ensure clear contrast and readability for the user.
+
+<img width="130" alt="image" src="https://user-images.githubusercontent.com/97494262/160855520-c3bfa9d0-f0af-4053-bdda-5316db1d792b.png">
+<img width="123" alt="image" src="https://user-images.githubusercontent.com/97494262/160855651-abff9f87-0207-4392-ae01-a50a3f58cdd9.png">
+
 #### Typography
 - The logo and headings use Roboto Condensed and body text uses Lato. 
 #### Images
@@ -80,7 +86,7 @@ Cara McAvinchey
 - This section will allow the user to find out when the exchange meetups will happen, where they will be located and at what time.
 - The page will be updated as the coffee shop locations and times change to keep the user up to date.
 
-
+<img width="514" alt="Screenshot 2022-03-30 at 22 20 35" src="https://user-images.githubusercontent.com/97494262/160857196-ab5ca9ed-ff92-461b-8eb5-edbaf1745ad7.png">
 
 ### Sign up Page
 - This page will allow the user to sign up with the Puzzle Exchange group to start connecting with fellow puzzle builders in the next meet up.
@@ -112,12 +118,14 @@ Cara McAvinchey
 <img width="1430" alt="image" src="https://user-images.githubusercontent.com/97494262/158909292-7621c240-1001-4cd5-ba29-877319263e07.png">
 
 ## Credits
+
+### Media
 - The pairing of Roboto Condensed and Lato were chosen using [FontJoy](https://fontjoy.com/#).
 - The colors for the website was generated using [Image Color Picker] (https://imagecolorpicker.com/)
 - All images were sourced using [Pexel] (https://www.pexels.com)
-- Flexbox tutorial from [Kevin Powell] (https://www.youtube.com/watch?v=u044iM9xsWU)
+- The icons in the footer, about page and location headings were taken from [Font Awesome] (https://fontawesome.com/)
+- Flexbox tutorial and instructions from [Kevin Powell] (https://www.youtube.com/watch?v=u044iM9xsWU) and article from [Tania Rascia] (https://www.taniarascia.com/easiest-flex-grid-ever/)
 - The google maps code was generated using [Google Maps Generator](https://google-map-generator.com/)
-- The ordered list was styled with the help of [CSS Tricks](https://css-tricks.com/list-style-recipes/)
-
+- The ordered list was styled with the help and instructions of [CSS Tricks](https://css-tricks.com/list-style-recipes/)
 
 
