@@ -55,7 +55,7 @@ Cara McAvinchey
 - The choice of Roboto Condensed and Lato were selected using [Google Fonts](https://fonts.google.com/share?selection.family=Lato|Roboto+Condensed:wght@700) 
 - The headings descrease in size to ensure full responsiveness of the website.
 
-<img width="1033" alt="Screenshot 2022-03-30 at 22 31 13" src="https://user-images.githubusercontent.com/97494262/160859641-f6154433-3871-4f94-a47e-18886da43c2b.png">
+<img width="500" height="500" alt="Screenshot 2022-03-30 at 22 31 13" src="https://user-images.githubusercontent.com/97494262/160859641-f6154433-3871-4f94-a47e-18886da43c2b.png">
 
 ### Images
 - The home page has an overhead shot of a puzzle piece on a yellow background. This image inspired the color and typography choices of the website. First time visitors will understand the theme of the page from the logo and image choice, followed.
@@ -109,9 +109,20 @@ Cara McAvinchey
 
 <img width="781" alt="image" src="https://user-images.githubusercontent.com/97494262/160029347-282fedac-e008-4bb5-9e4d-0955465399c3.png">
 
+### Features for Future Development
+- A gallery page will be developed to showcase photos from previous meetups for new and returning visitors to see.
+- An online catalogue of puzzles in circulation for members to browse before a meetup. 
+
 ## Testing
 
 ## Accessibility
+
+### Lighthouse Audit
+- The deployed website was run through [web.dev measure](https://web.dev/measure/) to check performance, accessibility, best practices and SEO scores. 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/97494262/160874191-59189269-9d67-4d58-9439-686baca88e45.png">
+
+### Keyboard Navigation
+- The user will be able to use the tab, arrow and enter keys if needed when navigating the website.
 
 ## Deployment
 1. Click on the settings link in the menu:
@@ -126,7 +137,7 @@ Cara McAvinchey
 <img width="1430" alt="image" src="https://user-images.githubusercontent.com/97494262/158909292-7621c240-1001-4cd5-ba29-877319263e07.png">
 
 ## Credits
-
+- All content was written by the developer.
 ### Media
 - The pairing of Roboto Condensed and Lato were chosen using [FontJoy](https://fontjoy.com/#).
 - The colors for the website was generated using [Image Color Picker] (https://imagecolorpicker.com/)
@@ -136,4 +147,7 @@ Cara McAvinchey
 - The google maps code was generated using [Google Maps Generator](https://google-map-generator.com/)
 - The ordered list was styled with the help and instructions of [CSS Tricks](https://css-tricks.com/list-style-recipes/)
 
+## Acknowledgements
+- Thank you to my mentor for continuous helpful feedback and support throughout the project.
+- The tutors at Code Institute for their patience and support.
 
