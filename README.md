@@ -128,9 +128,9 @@ Cara McAvinchey
 You should try to ensure you code is valid and follows proper indentation. In this section you should write up any websites you used to validate your code. As your projects becomes more complex these tools may change.
 
 - HTML
-   - No errors were returned when passing through the official [W3C validator] ("")
+   - No errors were returned when passing through the official [W3C validator] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F)
 - CSS
-   - No errors were found when passing through the [official (Jigsaw) validator] (https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+   - No errors were found when passing through the [HTML validator] (https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Accessibility
 
