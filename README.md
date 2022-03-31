@@ -45,8 +45,9 @@ Cara McAvinchey
 ## DESIGN CHOICES
 
 ### Colors
-- The hero image of a white puzzle piece on a yellow background inspired the color palette of the website. The headings and body text are dark grey to ensure clear contrast and readability for the user.
-- Yellow is a bright and optimistic color which links to the purpose of the group being to connect and make friends.
+- The hero image of a white puzzle piece on a yellow background inspired the color palette of the website. The headings and body text are dark grey (#4A4737) to ensure clear contrast and readability for the user.
+- Yellow (#FCEC88) is a bright and optimistic color which links to the purpose of the group being to connect and make friends.
+- Background is an off-white (#FEF9E8) to ensure clear contrast and delineation between sections.
 
 <img width="250" height="250" alt="image" src="https://user-images.githubusercontent.com/97494262/160872767-e10e152e-b90c-4e99-a63b-4ff0535bcb5c.png">
 
