@@ -152,7 +152,7 @@ Cara McAvinchey
 
 ### Testing User Stories from User Experience (UX) Section
 
-First time visitor:
+**First time visitor:**
 1. I want to learn more about the Puzzle Exchange and what the group is all about.
    1. The user is greeted with a bold logo and clear navigation bar to go to the page of their choice.
    2. Below the menu is a hero image of a puzzle piece wih cover text welcoming and introducing the main point of the website. 
@@ -166,7 +166,7 @@ First time visitor:
    1. The footer on each page includes contact information and links to the social media pages of the group.
    2. The links will open in a new browser tab, users won't need to use the back arrow to return to the website. 
 
-Returning visitor:
+**Returning visitor:**
 1. I want to find out where the next meet up location will be for the month.
       1. Returning users will be familair with the navigation menu and can click through easily to the locations page.
       2. The embedded maps will allow users to open the map on their device for directions.
@@ -177,7 +177,7 @@ Returning visitor:
       3. The sign up form has a required function for each input, ensuring users don't forget any information.
       4. After submission of the form, a new tab will open to acknowlege successful completion.
 
-Frequent user:
+**Frequent user:**
  1. I want to check to see if there are any new meet up locations for the month.
       1. Frequent visiters can easily click through to the locations page to view updates of dates and locations three months ahead.
  2. I want to contact the organisers about borrowing, returning or add a new puzzle to the exchange or general queries. 
