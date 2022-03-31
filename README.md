@@ -161,8 +161,8 @@ Cara McAvinchey
 ### Media
 - The pairing of Roboto Condensed and Lato were chosen using [FontJoy](https://fontjoy.com/#) and [Google Fonts](https://fonts.google.com/share?selection.family=Lato|Roboto+Condensed:wght@700). 
 - The colors for the website was generated using [Image Color Picker](https://imagecolorpicker.com/).
-- All images were sourced using [Pexel](https://www.pexels.com).
-- The icons in the footer, about page and location headings were taken from [Font Awesome](https://fontawesome.com/)
+- All images were sourced using [Pexels](https://www.pexels.com).
+- The icons for the favicon, footer, about page and location headings were taken from [Font Awesome](https://fontawesome.com/)
 - The google maps code was generated using [Google Maps Generator](https://google-map-generator.com/)
 - The ordered list was styled with the help and instructions of [CSS Tricks](https://css-tricks.com/list-style-recipes/)
 
