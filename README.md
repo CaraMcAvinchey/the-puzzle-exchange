@@ -19,7 +19,7 @@ Cara McAvinchey
 
 ### PROJECT GOAL
 * The project is aimed at providing a way for people who enjoy building puzzles as a hobby to connect with each other.
-* Inspired by the concept of a bookclub, members can join the exchange to borrow and swop their puzzles instead of purchasing new sets.
+* Inspired by the concept of a book club, members can join the exchange to borrow and swop their puzzles instead of purchasing new sets.
 
 ### USER STORIES
 1. As a first time visitor,
@@ -54,7 +54,7 @@ Cara McAvinchey
 ### Typography
 - The logo and headings use Roboto Condensed and body text uses Lato with a fall-back font of san-serif. 
 - The choice of Roboto Condensed and Lato were selected using [Google Fonts](https://fonts.google.com/share?selection.family=Lato|Roboto+Condensed:wght@700). 
-- The headings descrease in size to ensure full responsiveness of the website.
+- The headings decrease in size to ensure full responsiveness of the website.
 
 <img width="500" alt="Screenshot 2022-03-30 at 22 31 13" src="https://user-images.githubusercontent.com/97494262/160859641-f6154433-3871-4f94-a47e-18886da43c2b.png">
 
@@ -66,7 +66,7 @@ Cara McAvinchey
 ### Animations
 - The home and locations page images have a subtle zoom effect when users load the page to add some depth and interest to the website.
 
-### Responsivness
+### Responsiveness
 - The website was designed using flexbox instead of float or grid to avoid fixed heights and ensure responsiveness throughout the website.
 
 ## WIREFRAMES
@@ -175,23 +175,30 @@ Cara McAvinchey
 
 **Returning visitor:**
 1. I want to find out where the next meet up location will be for the month.
-      1. Returning users will be familair with the navigation menu and can click through easily to the locations page.
+      1. Returning users will be familiar with the navigation menu and can click through easily to the locations page.
       2. The embedded maps will allow users to open the map on their device for directions.
 2. I want to contact the organisers about the exchange process.
       1. The footer contains social links for Facebook, Instagram and Twitter which open on a new tab when clicked.
       2. The email address for general queries is included in the footer in each page.
 3. I want to sign up as a new member after considering my decision.
       3. The sign up form has a required function for each input, ensuring users don't forget any information.
-      4. After submission of the form, a new tab will open to acknowlege successful completion.
+      4. After submission of the form, a new tab will open to acknowledge successful completion.
 
 **Frequent user:**
  1. I want to check to see if there are any new meet up locations for the month.
-      1. Frequent visiters can easily click through to the locations page to view updates of dates and locations three months ahead.
+      1. Frequent visitors can easily click through to the locations page to view updates of dates and locations three months ahead.
  2. I want to contact the organisers about borrowing, returning or add a new puzzle to the exchange or general queries. 
       2. The user can easily scroll to the bottom of the page and find the contact information for queries or link to social media.
 
 ## Manual Testing
 - You can view manual testing of the website [here](https://docs.google.com/spreadsheets/d/16XqjGOfWqQrNFe5B4ZjzjadKg1do8L6vFcukGPGYe8c/edit?usp=sharing)
+
+## Outstanding Defects
+- No outstanding defects, all issues logged on GitHub and solved.
+
+## Defects of Note
+1. The website was designed mobile-first which caused some challenges when resizing the fonts and navigation for larger screen sizes. Flexbox solved this and using % for font-size in the media queries.
+2. The display of the site on an ultra-wide screen didn't look appealing, a wrapping container solved the issue with a max-width with the help of my mentor.  
 
 ## Accessibility
 
@@ -216,6 +223,7 @@ Cara McAvinchey
 
 ## Credits
 - All content was written by the developer.
+- Code Institute Student Template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
 
 ### Media
 - The pairing of Roboto Condensed and Lato were chosen using [FontJoy](https://fontjoy.com/#) and [Google Fonts](https://fonts.google.com/share?selection.family=Lato|Roboto+Condensed:wght@700). 
@@ -225,10 +233,9 @@ Cara McAvinchey
 - The google maps code was generated using [Google Maps Generator](https://google-map-generator.com/)
 - The ordered list was styled with the help and instructions of [CSS Tricks](https://css-tricks.com/list-style-recipes/)
 
-
 ## Acknowledgements
 - Thank you to my mentor for continuous helpful feedback and support throughout the project.
 - The tutors at Code Institute for their patience and support.
 - The Slack community for tips and guidance.
 - Flexbox tutorial and instructions from [Kevin Powell](https://www.youtube.com/watch?v=u044iM9xsWU) and flexbox article from [Tania Rascia](https://www.taniarascia.com/easiest-flex-grid-ever/).
-- Extra coding support for the sign up form via [W3schools](https://www.w3schools.com/).
+- Extra coding support for the sign up form via [W3schools](https://www.w3schools.com/) and [css-tricks.com](https://css-tricks.com/)
