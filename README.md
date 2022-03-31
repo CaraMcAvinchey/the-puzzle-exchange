@@ -183,6 +183,9 @@ Cara McAvinchey
  2. I want to contact the organisers about borrowing, returning or add a new puzzle to the exchange or general queries. 
       2. The user can easily scroll to the bottom of the page and find the contact information for queries or link to social media.
 
+## Manual Testing
+- You can view manual testing of the webiste [here](https://docs.google.com/spreadsheets/d/16XqjGOfWqQrNFe5B4ZjzjadKg1do8L6vFcukGPGYe8c/edit?usp=sharing)
+
 ## Accessibility
 
 ### Lighthouse Audit
