@@ -222,14 +222,14 @@ You can view the deployed website [here](https://caramcavinchey.github.io/the-pu
       1. The footer contains social links for Facebook, Instagram and Twitter which open on a new tab when clicked.
       2. The email address for general queries is included in the footer in each page.
 3. I want to sign up as a new member after considering my decision.
-      3. The sign up form has a required function for each input, ensuring users don't forget any information.
-      4. After submission of the form, a new tab will open to acknowledge successful completion.
+      1. The sign up form has a required function for each input, ensuring users don't forget any information.
+      2. After submission of the form, a new tab will open to acknowledge successful completion.
 
 **Frequent user:**
  1. I want to check to see if there are any new meet up locations for the month.
       1. Frequent visitors can easily click through to the locations page to view updates of dates and locations three months ahead.
  2. I want to contact the organisers about borrowing, returning or add a new puzzle to the exchange or general queries. 
-      2. The user can easily scroll to the bottom of the page and find the contact information for queries or link to social media.
+      1. The user can easily scroll to the bottom of the page and find the contact information for queries or link to social media.
 
 ### Manual Testing
 - You can view manual testing of the website [here](https://docs.google.com/spreadsheets/d/16XqjGOfWqQrNFe5B4ZjzjadKg1do8L6vFcukGPGYe8c/edit?usp=sharing)
