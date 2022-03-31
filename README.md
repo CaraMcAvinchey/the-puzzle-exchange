@@ -13,15 +13,15 @@ Cara McAvinchey
 
 <img width="943" alt="image" src="https://user-images.githubusercontent.com/97494262/160856912-eab0e928-3f25-4dc2-9a45-98e64f1835a4.png">
 
-## Table of Contents
+## TABLE OF CONTENTS
 - [THE PUZZLE EXCHANGE](#the-puzzle-exchange)
   * [Author](#author)
   * [Project Overview](#project-overview)
-  * [Table of Contents](#table-of-contents)
+  * [TABLE OF CONTENTS](#table-of-contents)
   * [UX](#ux)
-    + [PROJECT GOAL](#project-goal)
-    + [USER STORIES](#user-stories)
-    + [USER PROFILES](#user-profiles)
+    + [Project Goal](#project-goal)
+    + [User Stories](#user-stories)
+    + [User Profiles](#user-profiles)
   * [DESIGN CHOICES](#design-choices)
     + [Colors](#colors)
     + [Typography](#typography)
@@ -41,31 +41,28 @@ Cara McAvinchey
     + [Footer](#footer)
     + [Error 404](#error-404)
     + [Features for Future Development](#features-for-future-development)
-  * [Testing](#testing)
+  * [TESTING](#testing)
     + [Validation Testing](#validation-testing)
     + [Cross Browser and Cross Device Testing](#cross-browser-and-cross-device-testing)
     + [Testing User Stories from User Experience (UX) Section](#testing-user-stories-from-user-experience--ux--section)
-  * [Manual Testing](#manual-testing)
-  * [Outstanding Defects](#outstanding-defects)
-  * [Defects of Note](#defects-of-note)
-  * [Accessibility](#accessibility)
+    + [Manual Testing](#manual-testing)
+    + [Outstanding Defects](#outstanding-defects)
+    + [Defects of Note](#defects-of-note)
+  * [ACCESSIBILITY](#accessibility)
     + [Lighthouse Audit](#lighthouse-audit)
     + [Keyboard Navigation](#keyboard-navigation)
-  * [Deployment](#deployment)
-  * [Credits](#credits)
+  * [DEPLOYMENT](#deployment)
+  * [CREDITS](#credits)
     + [Media](#media)
-  * [Acknowledgements](#acknowledgements)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
+  * [ACKNOWLEDGEMENTS](#acknowledgements)
 
 ## UX
 
-### PROJECT GOAL
+### Project Goal
 * The project is aimed at providing a way for people who enjoy building puzzles as a hobby to connect with each other.
 * Inspired by the concept of a book club, members can join the exchange to borrow and swop their puzzles instead of purchasing new sets.
 
-### USER STORIES
+### User Stories
 1. As a first time visitor,
     * I want to learn more about the Puzzle Exchange and what the group is all about.
     * I want to investigate the meet up locations, times and how to sign up as a member.
@@ -80,7 +77,7 @@ Cara McAvinchey
     * I want to check to see if there are any new meet up locations for the month.
     * I want to contact the organisers about borrowing, returning or add a new puzzle to the exchange or general queries.       
 
-### USER PROFILES
+### User Profiles
 
 1. Grace would like to meet new friends, but she doesn’t have any puzzles to exchange at the moment. She likes the idea of connecting with new people over a coffee and a puzzle for the afternoon. 
 
@@ -174,7 +171,7 @@ Cara McAvinchey
 - A gallery page to showcase moments from previous meetups for new and returning visitors to see.
 - A possible online catalogue of puzzle sets in circulation for members to browse through before a meetup. 
 
-## Testing
+## TESTING
 
 ### Validation Testing
 - HTML
@@ -234,17 +231,17 @@ Cara McAvinchey
  2. I want to contact the organisers about borrowing, returning or add a new puzzle to the exchange or general queries. 
       2. The user can easily scroll to the bottom of the page and find the contact information for queries or link to social media.
 
-## Manual Testing
+### Manual Testing
 - You can view manual testing of the website [here](https://docs.google.com/spreadsheets/d/16XqjGOfWqQrNFe5B4ZjzjadKg1do8L6vFcukGPGYe8c/edit?usp=sharing)
 
-## Outstanding Defects
+### Outstanding Defects
 - No outstanding defects, all issues logged on GitHub and solved.
 
-## Defects of Note
+### Defects of Note
 1. The website was designed mobile-first which caused some challenges when resizing the fonts and navigation for larger screen sizes. Flexbox solved this and using % for font-size in the media queries.
 2. The display of the site on an ultra-wide screen didn't look appealing, a wrapping container solved the issue with a max-width with the help of my mentor.  
 
-## Accessibility
+## ACCESSIBILITY
 
 ### Lighthouse Audit
 - The deployed website was run through [web.dev measure](https://web.dev/measure/) to check performance, accessibility, best practices and SEO scores. 
@@ -253,7 +250,7 @@ Cara McAvinchey
 ### Keyboard Navigation
 - The user will be able to use the tab, arrow and enter keys if needed when navigating the website.
 
-## Deployment
+## DEPLOYMENT
 1. Click on the settings link in the menu:
 <img width="1426" alt="image" src="https://user-images.githubusercontent.com/97494262/158908839-97f5755e-b268-46f8-8dec-6bbb1e0141f6.png">
 2. In the left hand menu, click on the pages link:
@@ -265,7 +262,7 @@ Cara McAvinchey
 5. Eventually you'll see a blue area with the deployment URL and a success message:
 <img width="1430" alt="image" src="https://user-images.githubusercontent.com/97494262/158909292-7621c240-1001-4cd5-ba29-877319263e07.png">
 
-## Credits
+## CREDITS
 - All content was written by the developer.
 - Code Institute Student Template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template).
 
@@ -277,7 +274,7 @@ Cara McAvinchey
 - The google maps code was generated using [Google Maps Generator](https://google-map-generator.com/).
 - The ordered list was styled with the help and instructions of [CSS Tricks](https://css-tricks.com/list-style-recipes/).
 
-## Acknowledgements
+## ACKNOWLEDGEMENTS
 - Thank you to my mentor for continuous helpful feedback and support throughout the project.
 - The tutors at Code Institute for their patience and support.
 - The Code Institute Slack community for tips and guidance.
