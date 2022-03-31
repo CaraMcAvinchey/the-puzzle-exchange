@@ -14,6 +14,50 @@ Cara McAvinchey
 <img width="943" alt="image" src="https://user-images.githubusercontent.com/97494262/160856912-eab0e928-3f25-4dc2-9a45-98e64f1835a4.png">
 
 ## Table of Contents
+- [THE PUZZLE EXCHANGE](#the-puzzle-exchange)
+  * [Author](#author)
+  * [Project Overview](#project-overview)
+  * [Table of Contents](#table-of-contents)
+  * [UX](#ux)
+    + [PROJECT GOAL](#project-goal)
+    + [USER STORIES](#user-stories)
+    + [USER PROFILES](#user-profiles)
+  * [DESIGN CHOICES](#design-choices)
+    + [Colors](#colors)
+    + [Typography](#typography)
+    + [Images](#images)
+    + [Animations](#animations)
+    + [Responsiveness](#responsiveness)
+  * [WIREFRAMES](#wireframes)
+    + [Mobile](#mobile)
+    + [Tablet](#tablet)
+    + [Desktop](#desktop)
+  * [FEATURES](#features)
+    + [Navigation Bar](#navigation-bar)
+    + [Hero Image](#hero-image)
+    + [Home Page](#home-page)
+    + [Locations Page](#locations-page)
+    + [Sign up Page](#sign-up-page)
+    + [Footer](#footer)
+    + [Error 404](#error-404)
+    + [Features for Future Development](#features-for-future-development)
+  * [Testing](#testing)
+    + [Validation Testing](#validation-testing)
+    + [Cross Browser and Cross Device Testing](#cross-browser-and-cross-device-testing)
+    + [Testing User Stories from User Experience (UX) Section](#testing-user-stories-from-user-experience--ux--section)
+  * [Manual Testing](#manual-testing)
+  * [Outstanding Defects](#outstanding-defects)
+  * [Defects of Note](#defects-of-note)
+  * [Accessibility](#accessibility)
+    + [Lighthouse Audit](#lighthouse-audit)
+    + [Keyboard Navigation](#keyboard-navigation)
+  * [Deployment](#deployment)
+  * [Credits](#credits)
+    + [Media](#media)
+  * [Acknowledgements](#acknowledgements)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## UX
 
@@ -223,19 +267,19 @@ Cara McAvinchey
 
 ## Credits
 - All content was written by the developer.
-- Code Institute Student Template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
+- Code Institute Student Template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template).
 
 ### Media
 - The pairing of Roboto Condensed and Lato were chosen using [FontJoy](https://fontjoy.com/#) and [Google Fonts](https://fonts.google.com/share?selection.family=Lato|Roboto+Condensed:wght@700). 
 - The colors for the website was generated using [Image Color Picker](https://imagecolorpicker.com/).
 - All images were sourced using [Pexels](https://www.pexels.com).
-- The icons for the favicon, footer, about page and location headings were taken from [Font Awesome](https://fontawesome.com/)
-- The google maps code was generated using [Google Maps Generator](https://google-map-generator.com/)
-- The ordered list was styled with the help and instructions of [CSS Tricks](https://css-tricks.com/list-style-recipes/)
+- The icons for the favicon, footer, about page and location headings were taken from [Font Awesome](https://fontawesome.com/).
+- The google maps code was generated using [Google Maps Generator](https://google-map-generator.com/).
+- The ordered list was styled with the help and instructions of [CSS Tricks](https://css-tricks.com/list-style-recipes/).
 
 ## Acknowledgements
 - Thank you to my mentor for continuous helpful feedback and support throughout the project.
 - The tutors at Code Institute for their patience and support.
-- The Slack community for tips and guidance.
+- The Code Institute Slack community for tips and guidance.
 - Flexbox tutorial and instructions from [Kevin Powell](https://www.youtube.com/watch?v=u044iM9xsWU) and flexbox article from [Tania Rascia](https://www.taniarascia.com/easiest-flex-grid-ever/).
 - Extra coding support for the sign up form via [W3schools](https://www.w3schools.com/) and [css-tricks.com](https://css-tricks.com/)
