@@ -153,15 +153,15 @@ Cara McAvinchey
 ### Testing User Stories from User Experience (UX) Section
 **First time visitor:**
     1. I want to learn more about the Puzzle Exchange and what the group is all about.
-    * The user is greeted with a bold logo and clear navigation bar to go to the page of their choice.
-    * Below the menu is a hero image of a puzzle piece wih cover text welcoming and introducing the main point of the website. 
+    - The user is greeted with a bold logo and clear navigation bar to go to the page of their choice.
+    - Below the menu is a hero image of a puzzle piece wih cover text welcoming and introducing the main point of the website. 
     2. I want to investigate the meet up locations, times and how to sign up as a member.
-    * The clear navigation bar allows users to visit each page smoothly and click to navigate between pages.
-    * The locations page includes a short description and embedded map of each meet up location for future convenience.
-    * The sign up form button will show a successful submission page by opening in a new tab for the user.
+    - The clear navigation bar allows users to visit each page smoothly and click to navigate between pages.
+    - The locations page includes a short description and embedded map of each meet up location for future convenience.
+    - The sign up form button will show a successful submission page by opening in a new tab for the user.
     3. I want to find the social media links to see their following and to look at photos from past meet ups.
-    * The footer on each page includes contact information and links to the social media pages of the group.
-    * The links will open in a new browser tab, users won't need to use the back arrow to return to the website. 
+    - The footer on each page includes contact information and links to the social media pages of the group.
+    - The links will open in a new browser tab, users won't need to use the back arrow to return to the website. 
 
 * Returning visitor:
     1. I want to find out where the next meet up location will be for the month.
