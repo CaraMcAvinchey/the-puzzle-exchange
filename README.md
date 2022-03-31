@@ -151,34 +151,37 @@ Cara McAvinchey
 | browserstack                | Edge 99          | windows | 1440 x 672 px    |
 
 ### Testing User Stories from User Experience (UX) Section
-**First time visitor:**
-    1. I want to learn more about the Puzzle Exchange and what the group is all about.
-    - The user is greeted with a bold logo and clear navigation bar to go to the page of their choice.
-    - Below the menu is a hero image of a puzzle piece wih cover text welcoming and introducing the main point of the website. 
-    2. I want to investigate the meet up locations, times and how to sign up as a member.
-    - The clear navigation bar allows users to visit each page smoothly and click to navigate between pages.
-    - The locations page includes a short description and embedded map of each meet up location for future convenience.
-    - The sign up form button will show a successful submission page by opening in a new tab for the user.
-    3. I want to find the social media links to see their following and to look at photos from past meet ups.
-    - The footer on each page includes contact information and links to the social media pages of the group.
-    - The links will open in a new browser tab, users won't need to use the back arrow to return to the website. 
 
-* Returning visitor:
-    1. I want to find out where the next meet up location will be for the month.
-      - Returning users will be familair with the navigation menu and can click through easily to the locations page.
-      - The embedded maps will allow users to open the map on their device for directions.
-    3. I want to contact the organisers about the exchange process.
-      - The footer contains social links for Facebook, Instagram and Twitter which open on a new tab when clicked.
-      - The email address for general queries is included in the footer in each page.
-    5. I want to sign up as a new member after considering my decision.
-      - The sign up form has a required function for each input, ensuring users don't forget any information.
-      - After submission of the form, a new tab will open to acknowlege successful completion.
+First time visitor:
+1. I want to learn more about the Puzzle Exchange and what the group is all about.
+   1. The user is greeted with a bold logo and clear navigation bar to go to the page of their choice.
+   2. Below the menu is a hero image of a puzzle piece wih cover text welcoming and introducing the main point of the website. 
 
-* Frequent user:
-    1. I want to check to see if there are any new meet up locations for the month.
-    - Frequent visiters can easily click through to the locations page to view updates of dates and locations three months ahead.
-    3. I want to contact the organisers about borrowing, returning or add a new puzzle to the exchange or general queries. 
-    - The user can easily scroll to the bottom of the page and find the contact information for queries or link to social media.
+2. I want to investigate the meet up locations, times and how to sign up as a member.
+   1. The clear navigation bar allows users to visit each page smoothly and click to navigate between pages.
+   2. The locations page includes a short description and embedded map of each meet up location for future convenience.
+   3. The sign up form button will show a successful submission page by opening in a new tab for the user.
+ 
+3. I want to find the social media links to see their following and to look at photos from past meet ups.
+   1. The footer on each page includes contact information and links to the social media pages of the group.
+   2. The links will open in a new browser tab, users won't need to use the back arrow to return to the website. 
+
+Returning visitor:
+1. I want to find out where the next meet up location will be for the month.
+      1. Returning users will be familair with the navigation menu and can click through easily to the locations page.
+      2. The embedded maps will allow users to open the map on their device for directions.
+2. I want to contact the organisers about the exchange process.
+      1. The footer contains social links for Facebook, Instagram and Twitter which open on a new tab when clicked.
+      2. The email address for general queries is included in the footer in each page.
+3. I want to sign up as a new member after considering my decision.
+      3. The sign up form has a required function for each input, ensuring users don't forget any information.
+      4. After submission of the form, a new tab will open to acknowlege successful completion.
+
+Frequent user:
+ 1. I want to check to see if there are any new meet up locations for the month.
+      1. Frequent visiters can easily click through to the locations page to view updates of dates and locations three months ahead.
+ 2. I want to contact the organisers about borrowing, returning or add a new puzzle to the exchange or general queries. 
+      2. The user can easily scroll to the bottom of the page and find the contact information for queries or link to social media.
 
 ## Accessibility
 
