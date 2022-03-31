@@ -280,3 +280,5 @@ Cara McAvinchey
 - The Code Institute Slack community for tips and guidance.
 - Flexbox tutorial and instructions from [Kevin Powell](https://www.youtube.com/watch?v=u044iM9xsWU) and flexbox article from [Tania Rascia](https://www.taniarascia.com/easiest-flex-grid-ever/).
 - Extra coding support for the sign up form via [W3schools](https://www.w3schools.com/) and [css-tricks.com](https://css-tricks.com/)
+
+[Back to the beginning](#table-of-contents)
