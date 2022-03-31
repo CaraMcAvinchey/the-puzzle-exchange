@@ -134,6 +134,22 @@ Cara McAvinchey
    - No errors were found when passing through the [CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcaramcavinchey.github.io%2Fthe-puzzle-exchange%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 <img width="1414" alt="image" src="https://user-images.githubusercontent.com/97494262/160890992-a96e8381-ed63-4bee-bef7-ea290414007a.png">
 
+### Cross Browser and Cross Device Testing
+- The below combination of devices, browsers, and operating system were used to test the website below. A range of viewport sizes were checked to see if users would have the same experience across multiple devices and browsers.
+
+| **TOOL / Device**           | **BROWSER**      | **OS**  | **SCREEN WIDTH** |
+|-----------------------------|------------------|---------|------------------|
+| dev tools: Galaxy Fold      | Chrome           | android | 280 x 653 px     |
+| dev tools: iPhone SE        | safari           | iOs     | 375 x 667 px     |
+| dev tools: Pixel 2          | Chrome           | android | 411 x 731        |
+| real phone: iPhone XR       | safari           | iOs     | 414 x 896 px     |
+| browserstack: Nexus 7       | Firefox          | android | 960 x 600 px     |
+| browserstack: iPhone 13 Pro | safari           | iOs     | 390px × 844px    |
+| real tablet: iPad Pro 11    | Chrome           | iOs     | 834 x 1075 px    |
+| real laptop: Macbook Pro    | Firefox & Chrome | iOs     | 1400 x 766 px    |
+| broswerstack                | Firefox          | iOs     | 1440 x 672 px    |
+| browserstack                | Edge 99          | windows | 1440 x 672 px    |
+
 ## Accessibility
 
 ### Lighthouse Audit
