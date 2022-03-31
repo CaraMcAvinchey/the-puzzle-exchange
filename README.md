@@ -120,7 +120,7 @@ Cara McAvinchey
 
 <img width="781" alt="image" src="https://user-images.githubusercontent.com/97494262/160029347-282fedac-e008-4bb5-9e4d-0955465399c3.png">
 
-## Error 404 
+### Error 404 
 - This page was created in case of any broken links or issues. It is styled the same as the rest of the site for familiarity for the user and is responsive.
 - The page includes the navigation which will allow the user to go back to the home page or any page they were previously on.
 
