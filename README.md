@@ -9,7 +9,7 @@ Cara McAvinchey
 - This group is useful for anyone looking to socialise, relax and enjoy a hobby they have in common together.
 - The users of this website will be able to find all the information they need to join the exchange club including monthly meet up times, locations and a sign up form.
 
-[Deployed URL](https://caramcavinchey.github.io/the-puzzle-exchange/)
+You can view the deployed website[here](https://caramcavinchey.github.io/the-puzzle-exchange/)
 
 <img width="943" alt="image" src="https://user-images.githubusercontent.com/97494262/160856912-eab0e928-3f25-4dc2-9a45-98e64f1835a4.png">
 
@@ -183,7 +183,7 @@ Cara McAvinchey
 <img width="1414" alt="image" src="https://user-images.githubusercontent.com/97494262/160890992-a96e8381-ed63-4bee-bef7-ea290414007a.png">
 
 ### Cross Browser and Cross Device Testing
-- The below combination of devices, browsers, and operating system were used to test the website below. A range of viewport sizes were checked to see if users would have the same experience across multiple devices and browsers.
+- The below combination of devices, browsers, and operating system were used to test the website. A range of viewport sizes were checked to see if users would have the same experience across multiple devices and browsers.
 
 | **TOOL / Device**           | **BROWSER**      | **OS**  | **SCREEN WIDTH** |
 |-----------------------------|------------------|---------|------------------|
